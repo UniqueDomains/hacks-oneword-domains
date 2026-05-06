@@ -1,22 +1,22 @@
-# Domain hacks One-Word Domains (1,971)
+# Available One-Word Hack Domains (1,970)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C971%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C970%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of domain hacks one-word domains from Unique Domains.
+These domains are one-word hacks: names completed by the extension, such as fitin.to, dogwalk.ing, and goodas.new. Updated daily, this selection includes 1,970 domains across 505 TLDs with a median ask of $1,771.89.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,971 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,970 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,971 domains
+**Public extract:** 1,000 rows · **Live catalog:** 1,970 domains · **Median ask:** $1,771.89 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/hacks`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                  |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------ |
-| haveagoodti.me   | available | $11.99    | $26.99        | 72             | 80     | 16     | name.com                                   |
-| fla.me           | resell    | $32,200   | $26.99        | 102            | 26     | 5      | Key-Systems GmbH                           |
-| re.store         | premium   | $3,250    | $13,000       | 86             | 92     | 7      | namecheap                                  |
-| holidayti.me     | available | $11.99    | $26.99        | 64             | 80     | 12     | name.com                                   |
-| howgoes.it       | resell    | $2,242.50 | $25.99        | 54             | 5      | 11     | name.com                                   |
-| drug.store       | premium   | $3,125    | $12,500       | 70             | 88     | 9      | name.com                                   |
-| cocktailcabi.net | available | $16.49    | $19.99        | 64             | 80     | 16     | name.com                                   |
-| aud.it           | resell    | —         | —             | 88             | 96     | 5      | —                                          |
-| general.store    | premium   | $1,562.50 | $6,250        | 58             | 80     | 13     | name.com                                   |
-| electricb.us     | available | $6.99     | $10.99        | 70             | 76     | 12     | name.com                                   |
-| de.co            | resell    | —         | —             | 68             | 88     | 4      | Hello Internet Corp.                       |
-| basu.co          | premium   | $130      | $33.80        | 56             | 72     | 6      | namecheap                                  |
-| transistorrad.io | available | $44.99    | $59.99        | 64             | 76     | 16     | name.com                                   |
-| neste.gg         | resell    | —         | —             | 64             | 88     | 8      | Spaceship, Inc (https://www.spaceship.com) |
-| build.ing        | premium   | $39,000   | $39,000       | 74             | 32     | 8      | namecheap                                  |
-| bigmanoncamp.us  | available | $6.99     | $10.99        | 64             | 76     | 17     | name.com                                   |
-| tow.it           | resell    | —         | —             | 62             | 88     | 6      | —                                          |
-| min.ing          | premium   | $39,000   | $39,000       | 66             | 29     | 6      | namecheap                                  |
-| battleb.us       | available | $6.99     | $10.99        | 56             | 76     | 10     | name.com                                   |
-| Aga.me           | resell    | —         | —             | 60             | 88     | 6      | Dynadot Inc                                |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| fitin.to      | available | $29.98    | —             | 84             | 2      | 8      | namecheap    |
+| midmorn.ing   | available | $16.98    | —             | 80             | 1      | 11     | namecheap    |
+| goodas.new    | available | $549.99   | —             | 80             | 3      | 11     | name.com     |
+| coffeebu.sh   | available | $59.99    | —             | 80             | 1      | 11     | name.com     |
+| jollyal.ong   | available | $16.99    | —             | 82             | 1      | 11     | name.com     |
+| letital.one   | available | $3.99     | —             | 80             | 1      | 12     | name.com     |
+| dogwalk.ing   | premium   | $112.50   | —             | 94             | 8      | 10     | name.com     |
+| advertis.ing  | premium   | $1,625    | —             | 80             | 28     | 11     | name.com     |
+| landscap.ing  | premium   | $1,625    | —             | 80             | 16     | 11     | name.com     |
+| counsell.ing  | premium   | $437.50   | —             | 82             | 13     | 11     | name.com     |
+| thanksgiv.ing | premium   | $1,625    | —             | 84             | 13     | 12     | name.com     |
+| turnin.to     | resell    | —         | —             | 86             | 2      | 9      | NAMECHEAP    |
+| gr.in         | premium   | —         | —             | 102            | 18     | 4      | —            |
+| reveal.ing    | premium   | —         | —             | 87             | 5      | 9      | —            |
+| k.now         | premium   | —         | —             | 116            | 31     | 4      | —            |
+| k.ing         | premium   | —         | —             | 97             | 44     | 4      | —            |
+| muff.in       | resell    | —         | —             | 86             | 17     | 6      | Dynadot, LLC |
+| ma.in         | premium   | —         | —             | 94             | 99     | 4      | —            |
+| youknow.it    | premium   | —         | —             | 84             | 3      | 11     | —            |
+| Barbiep.ink   | premium   | —         | —             | 80             | 11     | 11     | —            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 1,971 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 1,970 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up of one-word hack domains, where the extension finishes the word or phrase. Examples here include fitin.to, midmorn.ing, advertis.ing, and counsell.ing. For founders, the appeal is memorability and a built-in verbal hook. For investors, the key question is whether the word-extension split helps resale or narrows the buyer pool. Median ask is $1,771.89, but the bigger variable is structure: some hacks read cleanly, while others depend on perfect formatting and audience familiarity with the extension. When comparing these domains, weigh readability, extension credibility, likely renewal cost, and whether the completed word feels natural at first glance.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize hacks that read as one word without explanation
+- Check if the extension strengthens or weakens buyer trust
+- Use ask price against memorability and resale depth
+- Be cautious with hacks that need punctuation awareness
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Domain hacks One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Hack Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
