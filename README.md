@@ -16,7 +16,7 @@ These domains are one-word hacks: names completed by the extension, such as fiti
 
 **Public extract:** 1,000 rows · **Live catalog:** 1,970 domains · **Median ask:** $1,771.89 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-07  
 **Canonical page:** `https://unique.domains/domains/hacks`  
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Hack Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Hack Domains*. Version 2026-05-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
