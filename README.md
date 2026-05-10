@@ -77,7 +77,7 @@ print(df.head())
 | thanksgiv.ing | premium   | $1,625    | —             | 84             | 13     | 12     | name.com     |
 | turnin.to     | resell    | —         | —             | 86             | 2      | 9      | NAMECHEAP    |
 | gr.in         | premium   | —         | —             | 102            | 18     | 4      | —            |
-| reveal.ing    | premium   | —         | —             | 87             | 5      | 9      | —            |
+| reveal.ing    | premium   | —         | —             | 87             | 30     | 9      | —            |
 | k.now         | premium   | —         | —             | 116            | 31     | 4      | —            |
 | k.ing         | premium   | —         | —             | 97             | 44     | 4      | —            |
 | muff.in       | resell    | —         | —             | 86             | 17     | 6      | Dynadot, LLC |
