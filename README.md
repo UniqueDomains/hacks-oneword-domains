@@ -14,9 +14,9 @@ These domains are one-word hacks: names completed by the extension, such as fiti
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **1,981 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,981 domains · **Median ask:** $1,743.82 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,981 domains · **Median ask:** $3,528.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/hacks`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| fitin.to      | available | $29.98    | —             | 84             | 1      | 8      | namecheap    |
-| gooutsi.de    | available | $5.99     | $5.99         | 84             | 6      | 10     | namesilo     |
-| midmorn.ing   | available | $16.98    | —             | 80             | 1      | 11     | namecheap    |
-| goodas.new    | available | $549.99   | —             | 80             | 3      | 11     | name.com     |
-| coffeebu.sh   | available | $59.99    | —             | 80             | 1      | 11     | name.com     |
-| jollyal.ong   | available | $16.99    | —             | 82             | 1      | 11     | name.com     |
-| letital.one   | available | $3.99     | —             | 80             | 1      | 12     | name.com     |
-| dogwalk.ing   | premium   | $112.50   | —             | 94             | 8      | 10     | name.com     |
-| advertis.ing  | premium   | $1,625    | —             | 80             | 24     | 11     | name.com     |
-| landscap.ing  | premium   | $1,625    | —             | 80             | 16     | 11     | name.com     |
-| counsell.ing  | premium   | $437.50   | —             | 82             | 13     | 11     | name.com     |
-| thanksgiv.ing | premium   | $1,625    | —             | 84             | 13     | 12     | name.com     |
-| turnin.to     | resell    | —         | —             | 86             | 3      | 9      | NAMECHEAP    |
-| gr.in         | premium   | —         | —             | 102            | 18     | 4      | —            |
-| reveal.ing    | premium   | —         | —             | 87             | 30     | 9      | —            |
-| k.now         | premium   | —         | —             | 116            | 31     | 4      | —            |
-| k.ing         | premium   | —         | —             | 97             | 44     | 4      | —            |
-| muff.in       | resell    | —         | —             | 86             | 17     | 6      | Dynadot, LLC |
-| ma.in         | premium   | —         | —             | 94             | 99     | 4      | —            |
-| youknow.it    | premium   | —         | —             | 84             | 3      | 11     | —            |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| gr.in        | premium   | —         | —             | 102            | 18     | 4      | —            |
+| reveal.ing   | premium   | $3,750    | —             | 87             | 30     | 9      | name.com     |
+| k.now        | premium   | —         | —             | 116            | 31     | 4      | —            |
+| k.ing        | premium   | $125,000  | —             | 97             | 44     | 4      | name.com     |
+| muff.in      | resell    | —         | —             | 86             | 17     | 6      | Dynadot, LLC |
+| ma.in        | premium   | —         | —             | 94             | 99     | 4      | —            |
+| youknow.it   | premium   | —         | —             | 84             | 3      | 11     | —            |
+| Barbiep.ink  | available | $2.99     | $32.49        | 80             | 1      | 11     | namesilo     |
+| wr.ong       | premium   | —         | —             | 122            | 14     | 5      | —            |
+| alarm.ing    | premium   | —         | —             | 84             | 3      | 8      | —            |
+| tw.in        | premium   | —         | —             | 80             | 23     | 4      | —            |
+| tempt.ing    | premium   | $437.50   | $437.50       | 88             | 5      | 8      | name.com     |
+| snip.pet     | resell    | —         | —             | 92             | 16     | 7      | Porkbun LLC  |
+| accommo.date | premium   | $390      | $130          | 92             | 7      | 11     | namecheap    |
+| mani.la      | resell    | —         | —             | 92             | 14     | 6      | Dynadot LLC  |
+| st.ink       | premium   | $812.50   | —             | 86             | 11     | 5      | name.com     |
+| midspr.ing   | available | $16.98    | —             | 98             | 1      | 10     | namecheap    |
+| pleas.ing    | premium   | $437.50   | —             | 96             | 8      | 8      | name.com     |
+| dismay.ing   | available | $16.98    | —             | 82             | 3      | 9      | namecheap    |
+| empty.space  | premium   | $875      | $3,500        | 98             | 25     | 11     | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Hack Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Hack Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
