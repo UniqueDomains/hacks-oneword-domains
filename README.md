@@ -1,23 +1,23 @@
-# Available One-Word Hack Domains (1,981)
+# One-Word Domain Hack Names (.ing, .at, .me & More) (2,107)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C981%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C107%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-These domains are one-word hacks: names completed by the extension, such as fitin.to, dogwalk.ing, and goodas.new. Updated daily, this selection includes 1,970 domains across 505 TLDs with a median ask of $1,771.89.
+This selection includes 2,107 one-word domain hack names — where the TLD completes the word, like dogwalk.ing or come.at — spanning 506 TLDs. Median ask is $2,984, with 799 names listed under $500. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,981 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **2,107 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,981 domains · **Median ask:** $3,528.06 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 2,107 domains · **Median ask:** $2,984.35 · **High-demand under $2,500:** 106
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/hacks`  
+**Last updated:** 2026-08-11
+**Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for the exact Unique Domains search repres
 
 ### Files
 
-- `hacks.csv` — public CSV extract (1,000 rows)
-- `hacks.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hacks.csv`, public CSV extract (1,000 rows)
+- `hacks.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| gr.in        | premium   | —         | —             | 102            | 18     | 4      | —            |
-| reveal.ing   | premium   | $3,750    | —             | 87             | 30     | 9      | name.com     |
-| k.now        | premium   | —         | —             | 116            | 31     | 4      | —            |
-| k.ing        | premium   | $125,000  | —             | 97             | 44     | 4      | name.com     |
-| muff.in      | resell    | —         | —             | 86             | 17     | 6      | Dynadot, LLC |
-| ma.in        | premium   | —         | —             | 94             | 99     | 4      | —            |
-| youknow.it   | premium   | —         | —             | 84             | 3      | 11     | —            |
-| Barbiep.ink  | available | $2.99     | $32.49        | 80             | 1      | 11     | namesilo     |
-| wr.ong       | premium   | —         | —             | 122            | 14     | 5      | —            |
-| alarm.ing    | premium   | —         | —             | 84             | 3      | 8      | —            |
-| tw.in        | premium   | —         | —             | 80             | 23     | 4      | —            |
-| tempt.ing    | premium   | $437.50   | $437.50       | 88             | 5      | 8      | name.com     |
-| snip.pet     | resell    | —         | —             | 92             | 16     | 7      | Porkbun LLC  |
-| accommo.date | premium   | $390      | $130          | 92             | 7      | 11     | namecheap    |
-| mani.la      | resell    | —         | —             | 92             | 14     | 6      | Dynadot LLC  |
-| st.ink       | premium   | $812.50   | —             | 86             | 11     | 5      | name.com     |
-| midspr.ing   | available | $16.98    | —             | 98             | 1      | 10     | namecheap    |
-| pleas.ing    | premium   | $437.50   | —             | 96             | 8      | 8      | name.com     |
-| dismay.ing   | available | $16.98    | —             | 82             | 3      | 9      | namecheap    |
-| empty.space  | premium   | $875      | $3,500        | 98             | 25     | 11     | namecheap    |
+| domain     | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
+| ---------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| wr.ong     | available | —           | —             | high           | low    | 5      | —                                           |
+| k.now      | available | —           | —             | high           | low    | 4      | —                                           |
+| vo.id      | resell    | —           | —             | high           | medium | 4      | —                                           |
+| hots.hot   | premium   | $1,250      | $1,250        | high           | low    | 7      | name.com                                    |
+| sports.fan | available | —           | —             | high           | low    | 10     | —                                           |
+| laugh.at   | resell    | —           | —             | high           | low    | 8      | EWBCD GmbH ( https://nic.at/registrar/750 ) |
+| dis.co     | resell    | —           | —             | high           | low    | 5      | Dynadot Inc                                 |
+| gr.in      | available | —           | —             | high           | low    | 4      | —                                           |
+| car.ing    | premium   | $37,500     | —             | high           | medium | 6      | name.com                                    |
+| fla.me     | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
+| asi.de     | resell    | —           | —             | high           | low    | 5      | —                                           |
+| com.ing    | premium   | $37,500     | —             | high           | low    | 6      | name.com                                    |
+| agamo.us   | available | $5.49       | $7.99         | low            | low    | 7      | namesilo                                    |
+| ca.me      | premium   | $250,000.10 | $26.99        | high           | low    | 4      | name.com                                    |
+| agel.ong   | available | $16.99      | $16.99        | low            | low    | 7      | name.com                                    |
+| howgoes.it | resell    | $2,242.50   | $25.99        | medium         | low    | 11     | name.com                                    |
+| d.ing      | premium   | $125,000    | —             | medium         | low    | 4      | name.com                                    |
+| antac.id   | available | $25.98      | —             | high           | low    | 7      | namecheap                                   |
+| c.io       | resell    | —           | —             | high           | high   | 3      | GoDaddy.com, LLC                            |
+| g.rip      | premium   | $3,750      | —             | high           | low    | 4      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,981 live domains                         |
+| 1,000-row public sample | 2,107 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 106 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word hack domains, where the extension finishes the word or phrase. Examples here include fitin.to, midmorn.ing, advertis.ing, and counsell.ing. For founders, the appeal is memorability and a built-in verbal hook. For investors, the key question is whether the word-extension split helps resale or narrows the buyer pool. Median ask is $1,771.89, but the bigger variable is structure: some hacks read cleanly, while others depend on perfect formatting and audience familiarity with the extension. When comparing these domains, weigh readability, extension credibility, likely renewal cost, and whether the completed word feels natural at first glance.
+This list covers one-word domain hack names such as noth.ing, come.at, and gooutsi.de, where the extension completes an everyday word or short phrase. The set spans 506 TLDs, with .at, .ing, .me, and .us appearing most often. Pricing ranges from under $500 to six-figure premium listings, with a median ask of $2,984. Comparing status, demand score, and TLD helps narrow this selection to the strongest candidates.
 
-- Prioritize hacks that read as one word without explanation
-- Check if the extension strengthens or weakens buyer trust
-- Use ask price against memorability and resale depth
-- Be cautious with hacks that need punctuation awareness
+- 1,541 available now, plus 362 premium and 204 resell listings
+- 799 domain hacks priced under $500; 82 above $10k
+- Top TLDs: .at, .ing, .me, .us, .it, .red, .in, .sh
+- 776 names score High demand (70-84); 41 in Top 15%
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Hack Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
