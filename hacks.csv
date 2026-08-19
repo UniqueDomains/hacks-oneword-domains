@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 025672be-9230-4ecc-a86e-04c7d0a9a57f,acino.us,resell,,,low,low,7,"Spaceship, Inc.",01/04/2026 14:57,01/04/2027 14:57
 e15bc41e-ad73-41c0-a44b-327066fba4fb,lookunder.rocks,available,12.99,,medium,low,16,name.com,,
-b9138eef-9bd6-4b87-ae7c-877b31ec7fd5,flavorso.me,available,,,medium,high,10,,,
+b9138eef-9bd6-4b87-ae7c-877b31ec7fd5,flavorso.me,available,9.99,19.99,medium,low,10,namesilo,,
 ff27ac91-287c-42ca-b326-d556f3afcfc7,boxple.at,available,,,medium,high,9,,,
 2160b337-c0e0-4ae7-a9ed-98ac2529cb56,animatedo.at,available,,,medium,low,12,,,
 6a5695ef-4ae1-44a9-988b-4a58927c99d5,billof.store,available,2.99,72.99,medium,high,13,name.com,,
@@ -237,7 +237,7 @@ bb26d520-6253-4079-8fe2-723cc22fd57c,Dal.it,resell,,,medium,high,5,,03/02/2000 0
 be94ec7d-7eda-420b-a293-f69c0441e44c,dogandc.at,available,,,medium,high,11,,,
 bf622db6-6497-43c7-b2bc-6e65fad1dc2b,record.ing,premium,37500,,high,low,9,name.com,,
 936419a8-2182-4b7d-aa3d-3ef2fef25496,Christa.live,premium,42,84,high,low,12,namecheap,,
-ca27f0a7-35bb-4d93-84c7-82aa47f328e0,general.education,resell,,,high,low,17,Dynadot Inc,15/07/2015 16:00,15/07/2026 16:00
+ca27f0a7-35bb-4d93-84c7-82aa47f328e0,general.education,resell,,,medium,low,17,Dynadot Inc,15/07/2015 16:00,15/07/2027 16:00
 4e9f3721-d56d-44b0-8c47-46d718b3b451,neodymiummag.net,available,,,medium,high,16,,,
 1c4b8520-e8d2-4d1a-babe-1c365bf92b4a,pottyse.at,available,,,medium,high,10,,,
 e3b6d85c-570e-4858-bc6e-add39362aa5b,pepsico.la,available,27.99,27.99,high,low,10,namesilo,,
@@ -565,7 +565,7 @@ c1e418d3-87a2-4061-83dc-ddf11cd4b622,prehe.at,available,,,medium,high,7,,,
 162f2ed9-3aba-4ece-b1d4-6df14a6039ef,howaboutth.at,available,18.99,,medium,low,14,name.com,,
 46564607-1d34-4e54-a83e-094af3c657b2,boxh.at,available,,,medium,high,7,,,
 213a9aa9-3e0e-4e68-98c1-02d568b500ed,slowti.me,available,,,medium,high,9,,,
-775df1bd-689a-4797-8447-04d6152e6707,flavouro.us,available,,,medium,high,10,,,
+775df1bd-689a-4797-8447-04d6152e6707,flavouro.us,available,5.49,7.99,medium,low,10,namesilo,,
 688fd421-d17d-4c63-9518-1f4b3c6969e2,s.now,available,,,medium,low,4,,,
 2beeddc8-2ed2-4f81-b8a3-85c607c605c4,s.ing,premium,125000,,high,low,4,name.com,,
 13baa1f3-31ec-49a5-81e5-dedf53c6c448,pyram.id,resell,,,high,low,7,PT Jagat Informasi Solusi (int),17/05/2025 02:56,17/05/2027 23:59
@@ -767,7 +767,7 @@ c73b6281-d4b4-4fdf-8081-5834808c27af,thefactth.at,available,18.99,,low,low,13,na
 f00dc55a-fa70-4739-9c09-499121dc0a7e,assumedna.me,available,,,medium,high,12,,,
 845264c4-b8c8-4284-af10-875a19aaf057,frontsqu.at,available,,,medium,low,11,,,
 dae9fdf9-6260-4522-9226-8e37a72b03cd,antac.id,available,25.98,,high,low,7,namecheap,,
-54c32abd-e94b-4349-95bc-6e64a901a6a3,general.store,premium,1562.5,6250,medium,high,13,name.com,,
+54c32abd-e94b-4349-95bc-6e64a901a6a3,general.store,premium,1562.5,6250,medium,low,13,name.com,,
 0b8397b3-c017-4636-b6c0-2ef35573b4f8,holyJes.us,available,10.48,,medium,high,10,namecheap,,
 1f887ecd-2d36-4f6f-8c45-7fb0e76a86d6,abige.at,available,,,medium,low,7,,,
 0a53582a-7fef-4c96-b5ec-3f766cfb8955,musicvideoga.me,available,,,medium,high,16,,,
