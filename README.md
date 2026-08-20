@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 2,398 domains · **Median ask:** $2,471.23 · **High-demand under $2,500:** 104
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,6 @@ print(df.head())
 | fla.me     | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
 | asi.de     | resell    | —           | —             | high           | low    | 5      | —                                           |
 | com.ing    | premium   | $37,500     | —             | high           | low    | 6      | name.com                                    |
-| co.at      | available | —           | —             | high           | low    | 4      | —                                           |
 | agamo.us   | available | $5.49       | $7.99         | low            | low    | 7      | namesilo                                    |
 | ca.me      | premium   | $250,000.10 | $26.99        | high           | low    | 4      | name.com                                    |
 | agel.ong   | available | $16.99      | $16.99        | low            | low    | 7      | name.com                                    |
@@ -84,6 +83,7 @@ print(df.head())
 | d.ing      | premium   | $125,000    | —             | medium         | low    | 4      | name.com                                    |
 | antac.id   | available | $25.98      | —             | high           | low    | 7      | namecheap                                   |
 | c.io       | resell    | —           | —             | high           | high   | 3      | GoDaddy.com, LLC                            |
+| g.rip      | premium   | $3,750      | —             | high           | low    | 4      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
