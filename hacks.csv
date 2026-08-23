@@ -314,7 +314,7 @@ e1dd78b2-43e3-4803-a3a9-2eaa27a2664a,braggadocio.us,available,,,medium,high,13,,
 e1d84266-216f-422f-b5d8-6b249dbba750,th.at,resell,,,high,low,4,Instra Corporation Pty Ltd ( https://nic.at/registrar/535 ),,
 bde57c4f-1e49-46d4-b678-1e0b49e186bd,sett.ing,premium,3750,,high,low,7,name.com,,
 a08467ba-95cf-427e-92fd-01c52e690ce7,fo.rest,resell,,,medium,low,6,"Spaceship, Inc.",22/05/2025 20:13,22/05/2027 20:13
-dd0bf876-d545-42f4-88d5-9481db198443,iridaceo.us,available,,,medium,high,10,,,
+dd0bf876-d545-42f4-88d5-9481db198443,iridaceo.us,available,5.49,7.99,low,low,10,namesilo,,
 eed2de74-0041-4f24-94b4-e3bdc8fc78fe,rabbitr.at,available,,,medium,high,10,,,
 9da5b5c4-57a6-4a4f-aeec-9e2363c08c7c,Godfor.bid,premium,1250,,medium,low,10,name.com,,
 57885805-54ba-4649-9c5b-f60eca08af14,cowgirlh.at,available,,,medium,high,11,,,
@@ -466,7 +466,7 @@ a6805460-16ae-414a-b232-9a84ce0b9faa,fac.ing,premium,3750,,high,low,6,name.com,,
 539cb886-f6ad-426c-aeb5-d3b9f833a4f3,Tonganti.me,available,,,medium,high,11,,,
 12776914-32ea-4561-9745-62b92634fef9,silicio.us,available,,,medium,high,9,,,
 8ee69377-cd13-4e8a-b984-cb76ce4999b0,invest.ing,premium,37500,,high,low,9,name.com,,
-00f55359-bcc6-428c-8510-83865bd71f2f,isotropo.us,available,,,medium,high,10,,,
+00f55359-bcc6-428c-8510-83865bd71f2f,isotropo.us,available,5.49,7.99,low,low,10,namesilo,,
 f75cad24-8f32-428c-84b3-d6ec10a1faee,biramo.us,available,5.98,10.98,low,low,8,namecheap,,
 6bc69b5c-437e-4c27-8856-e667b9b85d6e,car.ing,premium,37500,,high,medium,6,name.com,,
 9ac296fb-5d74-4f27-b021-4241ec6c2450,aflo.at,available,,,high,low,6,,,
@@ -731,7 +731,7 @@ a33603de-9034-4110-b97a-a1b19cc1d19c,GodSavetheK.ing,available,16.98,,high,low,1
 3aa39a83-fd4f-474f-abed-1ed0eef5fe28,bigheadedricer.at,available,,,medium,high,19,,,
 dc1bbe9d-6815-48fc-891a-f007201e31f5,tightfitt.ing,available,16.98,,medium,low,13,namecheap,,
 cf82473c-e4fc-4ae4-b2c6-8ec9bc51c5b2,for.giving,available,,,high,low,9,,,
-56eb1246-ca69-4004-8092-903b95e3c429,numero.us,resell,,,medium,high,8,"GoDaddy.com, LLC",25/04/2002 21:34,24/04/2026 23:59
+56eb1246-ca69-4004-8092-903b95e3c429,numero.us,resell,,,low,low,8,"GoDaddy.com, LLC",25/04/2002 21:34,24/04/2027 23:59
 b564e45e-9345-4b60-9b79-840528e25941,holidayti.me,available,11.99,26.99,medium,high,12,name.com,,
 c81e8055-13fa-4a8b-a27c-aa489a71d8d2,afla.me,resell,,,low,low,6,"NameSilo, LLC",02/10/2014 03:23,02/10/2026 03:23
 d342ad52-3c6d-4b45-b88b-f70423e364b8,dis.co,resell,,,high,low,5,Dynadot Inc,24/08/2025 17:00,24/08/2027 23:59
@@ -779,6 +779,7 @@ d8566f7b-1f18-41a4-99c2-4840d80b1961,haveawhack.at,available,,,medium,low,15,,,
 8cb6e303-494d-43b0-8c6e-7dcd29db7902,poison.ing,premium,12500,,medium,low,9,name.com,,
 a8b448cb-3148-4fd8-bb65-56121af750a4,permanentmag.net,resell,,,medium,high,16,"GoDaddy.com, LLC",22/06/2010 17:15,22/06/2029 17:15
 c3548661-f56e-42b5-99b4-db7865e2cb3c,cleans.ing,premium,3750,3750,low,low,9,name.com,,
+bc32a191-110d-4912-a8ba-97aec821c006,joyo.us,resell,,,low,low,6,"Spaceship, Inc.",09/12/2024 00:00,09/12/2026 00:00
 9319b42c-98ef-4cd2-9381-06dbde01295a,limit.ing,premium,3750,3750,medium,low,8,name.com,,
 2ecaeff8-8d09-4875-b20d-2527f3f267d6,nappyfl.at,available,,,medium,high,10,,,
 a75de450-2cbc-4c62-af5d-0f07069a52a8,bothe.red,available,,,medium,high,8,,,
@@ -998,4 +999,3 @@ cd524bb5-e4ed-4974-ae5b-ac92192056ce,Englishmuff.in,available,7.95,7.95,high,low
 b5dfb198-e4b4-48bd-9fee-2860f569c805,slant.ing,available,,,medium,low,8,,,
 5efae503-029a-40c6-9e52-02003459d041,ChinaStandardTi.me,available,,,medium,low,19,,,
 2dcd139b-536f-4ad2-b0b2-bef1db684cd5,artocarp.us,available,,,medium,high,10,,,
-985165d2-f3a3-4c95-afec-83c443ae4fa2,div.ing,premium,3750,,high,low,6,name.com,,
