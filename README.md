@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 2,536 domains · **Median ask:** $2,300.97 · **High-demand under $2,500:** 104
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,8 @@ print(df.head())
 | dis.co     | resell    | —           | —             | high           | low    | 5      | Dynadot Inc                                 |
 | gr.in      | available | —           | —             | high           | low    | 4      | —                                           |
 | car.ing    | premium   | $37,500     | —             | high           | medium | 6      | name.com                                    |
-| fla.me     | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
-| asi.de     | resell    | —           | —             | high           | low    | 5      | —                                           |
-| com.ing    | premium   | $37,500     | —             | high           | low    | 6      | name.com                                    |
 | agamo.us   | available | $5.49       | $7.99         | low            | low    | 7      | namesilo                                    |
+| fla.me     | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
 | ca.me      | premium   | $250,000.10 | $26.99        | high           | low    | 4      | name.com                                    |
 | agel.ong   | available | $16.99      | $16.99        | low            | low    | 7      | name.com                                    |
 | howgoes.it | resell    | $2,242.50   | $25.99        | medium         | low    | 11     | name.com                                    |
@@ -84,6 +82,8 @@ print(df.head())
 | antac.id   | available | $25.98      | —             | high           | low    | 7      | namecheap                                   |
 | c.io       | resell    | —           | —             | high           | high   | 3      | GoDaddy.com, LLC                            |
 | g.rip      | premium   | $3,750      | —             | high           | low    | 4      | name.com                                    |
+| aswh.at    | available | $11.99      | $11.99        | medium         | low    | 7      | namesilo                                    |
+| j.at       | resell    | —           | —             | medium         | high   | 3      | 1API GmbH ( https://nic.at/registrar/578 )  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
