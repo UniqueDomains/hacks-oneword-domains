@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 2,976 domains · **Median ask:** $1,928.13 · **High-demand under $2,500:** 105
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
-| ----------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| wr.ong      | available | —           | —             | high           | low    | 5      | —                                           |
-| k.now       | available | —           | —             | high           | low    | 4      | —                                           |
-| vo.id       | resell    | —           | —             | high           | medium | 4      | —                                           |
-| hots.hot    | premium   | $1,250      | $1,250        | high           | low    | 7      | name.com                                    |
-| sports.fan  | available | —           | —             | high           | low    | 10     | —                                           |
-| laugh.at    | resell    | —           | —             | high           | low    | 8      | EWBCD GmbH ( https://nic.at/registrar/750 ) |
-| dis.co      | resell    | —           | —             | high           | low    | 5      | Dynadot Inc                                 |
-| gr.in       | available | —           | —             | high           | low    | 4      | —                                           |
-| car.ing     | premium   | $37,500     | —             | high           | medium | 6      | name.com                                    |
-| fla.me      | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
-| asi.de      | resell    | —           | —             | high           | low    | 5      | —                                           |
-| com.ing     | premium   | $37,500     | —             | high           | low    | 6      | name.com                                    |
-| co.at       | available | —           | —             | high           | low    | 4      | —                                           |
-| midspr.ing  | available | $16.98      | —             | high           | low    | 10     | namecheap                                   |
-| empty.space | premium   | $875        | $3,500        | high           | low    | 11     | namecheap                                   |
-| famo.us     | resell    | —           | —             | high           | low    | 6      | NameCheap, Inc.                             |
-| microph.one | premium   | $1,250      | —             | high           | low    | 10     | name.com                                    |
-| agamo.us    | available | $5.49       | $7.99         | low            | low    | 7      | namesilo                                    |
-| ca.me       | premium   | $250,000.10 | $26.99        | high           | low    | 4      | name.com                                    |
-| agel.ong    | available | $16.99      | $16.99        | low            | low    | 7      | name.com                                    |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| wr.ong      | available | —         | —             | high           | low    | 5      | —                                           |
+| k.now       | available | —         | —             | high           | low    | 4      | —                                           |
+| vo.id       | resell    | —         | —             | high           | medium | 4      | —                                           |
+| hots.hot    | premium   | $1,250    | $1,250        | high           | low    | 7      | name.com                                    |
+| sports.fan  | available | —         | —             | high           | low    | 10     | —                                           |
+| laugh.at    | resell    | —         | —             | high           | low    | 8      | EWBCD GmbH ( https://nic.at/registrar/750 ) |
+| dis.co      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                 |
+| gr.in       | available | —         | —             | high           | low    | 4      | —                                           |
+| car.ing     | premium   | $37,500   | —             | high           | medium | 6      | name.com                                    |
+| fla.me      | resell    | $32,200   | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
+| asi.de      | resell    | —         | —             | high           | low    | 5      | —                                           |
+| com.ing     | premium   | $37,500   | —             | high           | low    | 6      | name.com                                    |
+| co.at       | available | —         | —             | high           | low    | 4      | —                                           |
+| midspr.ing  | available | $16.98    | —             | high           | low    | 10     | namecheap                                   |
+| empty.space | premium   | $875      | $3,500        | high           | low    | 11     | namecheap                                   |
+| famo.us     | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.                             |
+| microph.one | premium   | $1,250    | —             | high           | low    | 10     | name.com                                    |
+| refre.sh    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                 |
+| benef.it    | resell    | —         | —             | high           | high   | 7      | —                                           |
+| agamo.us    | available | $5.49     | $7.99         | low            | low    | 7      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
