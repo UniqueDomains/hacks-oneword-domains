@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 3,078 domains · **Median ask:** $1,844.55 · **High-demand under $2,500:** 104
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | car.ing     | premium   | $39,000     | $39,000       | high           | medium | 6      | namecheap                                   |
 | fla.me      | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
 | asi.de      | resell    | —           | —             | high           | low    | 5      | —                                           |
-| com.ing     | premium   | $37,500     | —             | high           | low    | 6      | name.com                                    |
+| com.ing     | premium   | $39,000     | $39,000       | high           | low    | 6      | namecheap                                   |
 | co.at       | available | —           | —             | high           | low    | 4      | —                                           |
 | midspr.ing  | available | $16.98      | —             | high           | low    | 10     | namecheap                                   |
 | empty.space | premium   | $875        | $3,500        | high           | low    | 11     | namecheap                                   |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
