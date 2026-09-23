@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 3,078 domains · **Median ask:** $1,844.55 · **High-demand under $2,500:** 104
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
 | ----------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| hots.hot    | premium   | $1,107      | $1,107        | high           | low    | 7      | namesilo                                    |
 | vo.id       | resell    | —           | —             | high           | medium | 4      | —                                           |
 | laugh.at    | resell    | —           | —             | high           | low    | 8      | EWBCD GmbH ( https://nic.at/registrar/750 ) |
 | dis.co      | resell    | —           | —             | high           | low    | 5      | Dynadot Inc                                 |
@@ -72,18 +71,19 @@ print(df.head())
 | fla.me      | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                            |
 | asi.de      | resell    | —           | —             | high           | low    | 5      | —                                           |
 | com.ing     | premium   | $39,000     | $39,000       | high           | low    | 6      | namecheap                                   |
-| co.at       | available | —           | —             | high           | low    | 4      | —                                           |
 | midspr.ing  | available | $16.98      | —             | high           | low    | 10     | namecheap                                   |
 | empty.space | premium   | $875        | $3,500        | high           | low    | 11     | namecheap                                   |
 | famo.us     | resell    | —           | —             | high           | low    | 6      | NameCheap, Inc.                             |
 | microph.one | premium   | $1,250      | —             | high           | low    | 10     | name.com                                    |
 | refre.sh    | resell    | —           | —             | high           | low    | 7      | Dynadot Inc                                 |
 | benef.it    | resell    | —           | —             | high           | high   | 7      | —                                           |
+| k.ing       | premium   | $125,000    | —             | high           | medium | 4      | name.com                                    |
+| pleas.ing   | premium   | $437.50     | —             | high           | low    | 8      | name.com                                    |
+| g.rip       | premium   | $3,750      | —             | high           | low    | 4      | name.com                                    |
+| fold.ing    | premium   | $12,500     | —             | high           | low    | 7      | name.com                                    |
 | agamo.us    | available | $5.49       | $7.99         | low            | low    | 7      | namesilo                                    |
 | ca.me       | premium   | $250,000.10 | $26.99        | high           | low    | 4      | name.com                                    |
 | agel.ong    | available | $16.99      | $16.99        | low            | low    | 7      | name.com                                    |
-| howgoes.it  | resell    | $2,242.50   | $25.99        | medium         | low    | 11     | name.com                                    |
-| d.ing       | premium   | $125,000    | —             | medium         | low    | 4      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
