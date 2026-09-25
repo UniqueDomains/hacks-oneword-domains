@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 3,078 domains · **Median ask:** $1,844.55 · **High-demand under $2,500:** 104
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                             |
-| ----------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------------------- |
-| empty.space | premium   | $3,450      | $3,450        | high           | low    | 11     | namesilo                                                              |
-| microph.one | premium   | $1,107      | $1,107        | high           | low    | 10     | namesilo                                                              |
-| vo.id       | resell    | —           | —             | high           | medium | 4      | —                                                                     |
-| dis.co      | resell    | —           | —             | high           | low    | 5      | Dynadot Inc                                                           |
-| fla.me      | resell    | $32,200     | $26.99        | high           | low    | 5      | Key-Systems GmbH                                                      |
-| asi.de      | resell    | —           | —             | high           | low    | 5      | —                                                                     |
-| midspr.ing  | available | $16.98      | —             | high           | low    | 10     | namecheap                                                             |
-| refre.sh    | resell    | —           | —             | high           | low    | 7      | Dynadot Inc                                                           |
-| k.ing       | premium   | $125,000    | —             | high           | medium | 4      | name.com                                                              |
-| pleas.ing   | premium   | $437.50     | —             | high           | low    | 8      | name.com                                                              |
-| g.rip       | premium   | $3,750      | —             | high           | low    | 4      | name.com                                                              |
-| fold.ing    | premium   | $12,500     | —             | high           | low    | 7      | name.com                                                              |
-| repe.at     | resell    | —           | —             | high           | low    | 6      | Hosting concepts B.V. / Registrar.eu ( https://nic.at/registrar/648 ) |
-| cla.im      | available | —           | —             | high           | low    | 5      | —                                                                     |
-| jo.in       | available | —           | —             | high           | medium | 4      | —                                                                     |
-| th.at       | resell    | —           | —             | high           | low    | 4      | Instra Corporation Pty Ltd ( https://nic.at/registrar/535 )           |
-| sp.in       | available | —           | —             | high           | low    | 4      | —                                                                     |
-| jewi.sh     | resell    | —           | —             | high           | low    | 6      | NameCheap, Inc.                                                       |
-| agamo.us    | available | $5.49       | $7.99         | low            | low    | 7      | namesilo                                                              |
-| ca.me       | premium   | $250,000.10 | $26.99        | high           | low    | 4      | name.com                                                              |
+| domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                  |
+| ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ------------------------------------------ |
+| exceed.ing  | premium   | $3,900     | $3,900        | high           | low    | 9      | namecheap                                  |
+| leas.ing    | premium   | $12,500    | —             | high           | low    | 7      | name.com                                   |
+| reek.ing    | available | $12.98     | $16.98        | high           | medium | 7      | namecheap                                  |
+| up.town     | resell    | —          | —             | high           | low    | 6      | 1API GmbH                                  |
+| sculptu.red | available | $9.48      | $28.48        | high           | low    | 10     | namecheap                                  |
+| snuffl.ing  | available | $12.98     | $16.98        | high           | medium | 9      | namecheap                                  |
+| dazzl.ing   | premium   | $187.50    | $187.50       | high           | low    | 8      | name.com                                   |
+| ritenu.to   | available | $39.98     | $39.98        | high           | medium | 8      | namecheap                                  |
+| pinnatif.id | available | $22.98     | $25.98        | high           | medium | 10     | namecheap                                  |
+| nonpro.fit  | premium   | $520       | $32.50        | high           | low    | 9      | namecheap                                  |
+| s.cam       | premium   | $32,500    | $18.20        | high           | low    | 4      | namecheap                                  |
+| sneer.ing   | available | $12.98     | $16.98        | high           | medium | 8      | namecheap                                  |
+| placo.id    | available | $22.98     | $25.98        | high           | medium | 7      | namecheap                                  |
+| av.id       | premium   | $49,695.18 | $20.06        | high           | low    | 4      | namesilo                                   |
+| roseo.la    | available | $27.99     | $27.99        | high           | medium | 7      | namesilo                                   |
+| agui.sh     | available | $34.98     | $76.98        | medium         | low    | 6      | namecheap                                  |
+| c.io        | resell    | —          | —             | high           | high   | 3      | GoDaddy.com, LLC                           |
+| copu.la     | available | $27.99     | $27.99        | medium         | low    | 6      | namesilo                                   |
+| j.at        | resell    | —          | —             | high           | high   | 3      | 1API GmbH ( https://nic.at/registrar/578 ) |
+| b.lat       | premium   | $2,600     | $2,600        | medium         | low    | 4      | namecheap                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
