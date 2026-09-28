@@ -44,7 +44,7 @@ bf2dafea-faf2-4a74-aec2-f32f2f0fd6aa,miss.ing,premium,13000,13000,high,low,7,nam
 0fdb7485-4bcb-4aa4-9bec-1c95662509cf,redw.ing,premium,195,195,high,low,7,namecheap,,,17/09/2026 16:57
 f94b002a-c439-4b14-882d-e305d14f392b,sin.us,resell,,,high,high,5,"eNom, LLC",24/04/2002 14:11,23/04/2027 23:59,26/09/2026 09:02
 8ed6d8fd-1fce-4d5b-92c8-f7d77b469332,generat.ing,premium,437.5,,medium,low,10,name.com,,,
-aac87763-ded8-4bba-850b-e9c8a0d4bc0b,dash.ing,premium,3750,3750,high,low,7,name.com,,,13/08/2026 17:27
+aac87763-ded8-4bba-850b-e9c8a0d4bc0b,dash.ing,premium,3750,3750,high,medium,7,name.com,,,28/09/2026 01:44
 75cb5a1f-b721-4379-a214-0a6eb6579f8e,fini.sh,resell,,,high,low,6,Porkbun LLC,05/12/2022 20:35,05/12/2026 20:35,26/09/2026 06:05
 f287b08e-a004-4f18-b8f2-78c7a2b72261,carot.id,available,22.98,25.98,high,low,7,namecheap,,,11/08/2026 19:33
 883d83ed-72ea-4cec-993e-6375dd64ab28,bitew.ing,available,12.98,16.98,medium,low,8,namecheap,,,23/09/2026 22:28
@@ -85,6 +85,7 @@ bf27ae2c-0cc1-4128-b4a9-63af21b717a3,peninsu.la,resell,,,high,low,9,LA Domain Na
 655510d6-cea9-402e-8a5e-39ff8ecec050,consol.ing,available,12.98,16.98,high,low,9,namecheap,,,12/08/2026 22:42
 f43b5f48-76a3-4d4f-95ab-34d78b6910e6,eat.ing,premium,39000,39000,high,low,6,namecheap,,,08/09/2026 13:35
 6eac8bfd-cb7e-4b17-86e6-22f5b632757d,stol.id,premium,212.48,20.06,medium,low,6,namesilo,,,21/08/2026 21:51
+d468e34e-3dc6-40ed-b501-a162ca41be1f,stor.ing,premium,1300.2,,high,low,7,unstoppable,,,28/09/2026 02:45
 e414d6f4-c19d-4d55-80aa-9def75d56b6f,dandyi.sh,available,59.99,99,medium,low,8,name.com,,,13/08/2026 17:03
 a2b4d7eb-c062-4e1c-976b-5e8979c494c2,rapacio.us,available,5.49,7.99,medium,low,9,namesilo,,,15/08/2026 05:26
 7fef0b9c-0ceb-4d9a-a879-1818435afa24,und.one,premium,1107,1107,medium,low,6,namesilo,,,25/09/2026 11:22
@@ -98,6 +99,7 @@ dd03d950-2c9f-4edc-b222-9e01e6b24cf9,noth.ing,premium,3900,3900,high,low,7,namec
 d379b52e-6b22-4591-9aeb-86fd323a3e22,incerta.in,available,7.95,7.95,low,low,9,namesilo,,,22/08/2026 01:10
 0080435e-415b-4876-8a6e-d22388c8c6af,appeal.ing,premium,3750,3750,high,low,9,name.com,,,06/08/2026 05:51
 5da1999f-f035-431b-a796-f0aad3ad1210,rack.ing,premium,3900,3900,high,low,7,namecheap,,,27/09/2026 15:29
+caaf7acd-980a-4bc2-86f6-987dbbdef76a,skat.ing,premium,3275.5,3275.5,high,low,7,porkbun,,,28/09/2026 03:06
 09a0da3d-5ea7-41b0-8e46-3a4f4b6abcfa,myelo.id,available,14.19,20.75,medium,low,7,namesilo,,,03/09/2026 12:06
 85db66b4-1208-48a5-92eb-332e6b3a0832,bruis.ing,premium,112.5,112.5,medium,low,8,name.com,,,11/08/2026 06:34
 3c1d002f-af02-4a8c-8ab4-f27aef5c8065,oleaceo.us,available,5.49,7.99,medium,low,9,namesilo,,,04/09/2026 02:06
@@ -107,7 +109,7 @@ fbecb257-3f57-4ce5-a57a-db5ef50f9048,ferrobo.at,available,,,high,high,9,,,,
 e817f1e8-d081-4e48-b6c3-4ea685496541,alg.id,premium,1451.03,20.06,medium,low,5,namesilo,,,
 43932856-5025-4e39-8cdc-35afbb0ded58,tempestuo.us,available,,,high,high,11,,,,
 6f1c647a-1c07-4340-a0cd-d7fe547bdcc2,shin.ing,premium,13000,13000,high,low,7,namecheap,,,23/09/2026 11:49
-95afa695-ed60-4a73-8c63-5f23ff45d986,warn.ing,premium,13000,13000,high,low,7,namecheap,,,13/09/2026 08:25
+95afa695-ed60-4a73-8c63-5f23ff45d986,warn.ing,premium,10350.2,10350.2,high,low,7,spaceship,,,28/09/2026 03:18
 65f7908e-9a0d-4ac4-bd97-e44c69764813,assiduo.us,available,,,high,low,9,,,,
 cd9e6871-13c1-41f3-ad6a-80b58f8147c5,ch.in,available,,,high,low,4,,,,
 75380f5c-8280-4414-ae23-b7a8c82251fb,midchromoso.me,available,,,high,high,13,,,,
@@ -120,6 +122,7 @@ c72acd41-7130-4529-9381-1230f79d32ac,tann.ing,premium,1625,1625,high,low,7,name.
 7ea5b2e7-ef65-4ac3-b435-3535816610c4,unsleep.ing,available,12.98,16.98,medium,low,10,namecheap,,,12/09/2026 20:02
 3088ab23-b303-4e2f-86a4-812585651980,prospero.us,resell,,,high,low,10,Tucows Domains Inc.,01/06/2006 18:03,31/05/2027 23:59,26/09/2026 08:23
 6e47bee9-2e9e-4d0a-9b00-4b3088ac3e6f,impos.ing,available,,,high,low,8,,,,
+1cb53544-4f8b-4e70-b11e-829897879943,b.rent,premium,13800,13800,high,low,5,namesilo,,,28/09/2026 05:19
 db3cad30-6c2c-41d0-89d8-b784c3b44aeb,slight.ing,premium,672.95,672.95,high,low,9,spaceship,,,27/09/2026 22:32
 3718b160-07ce-4251-80d1-da2e370c04ed,anasar.ca,available,9.99,9.99,medium,low,8,namesilo,,,19/09/2026 03:14
 8b8b33f8-266f-41d6-bb2d-65907eedad66,unpa.id,premium,212.48,20.06,medium,low,6,namesilo,,,
@@ -131,7 +134,7 @@ db3cad30-6c2c-41d0-89d8-b784c3b44aeb,slight.ing,premium,672.95,672.95,high,low,9
 8f6b4bc6-c1f9-4661-a711-5c012e24250f,whaleb.one,premium,1107,1107,medium,low,9,namesilo,,,21/09/2026 21:50
 78375953-7409-4c91-aea4-a96d26c6aad8,flatter.ing,premium,187.5,187.5,high,low,10,name.com,,,18/08/2026 06:57
 28222554-1f30-4043-85bb-67da4a0aca92,cutaneo.us,available,7.99,18.99,high,low,9,name.com,,,13/08/2026 12:54
-bab75123-726e-4430-aa0b-4f2947877e25,manufactur.ing,premium,1690,1690,high,low,13,namecheap,,,23/09/2026 06:48
+bab75123-726e-4430-aa0b-4f2947877e25,manufactur.ing,premium,1300.2,1690,high,low,13,unstoppable,,,28/09/2026 04:36
 e71609cb-5d3a-479d-8729-4ac311b83e54,bedd.ing,premium,3750,3750,high,low,7,name.com,,,22/09/2026 22:50
 2b850b75-fbb2-4cea-818b-10328f57abca,boil.ing,premium,3900,3900,high,low,7,namecheap,,,14/09/2026 00:51
 c2899cc4-0d49-4751-a4a4-5d9830d93fd0,faddi.sh,available,34.98,76.98,medium,low,7,namecheap,,,17/08/2026 20:33
@@ -227,6 +230,7 @@ afabf721-af04-4897-ba84-ae9942b9895f,villa.in,resell,,,high,low,7,InterNetX GmbH
 83540489-7428-4f10-824b-a3b8315e2002,ci.pro,premium,3125,3125,high,high,5,name.com,,,
 a1a86f38-beb8-4738-a969-5bc453208296,surviv.ing,premium,455,455,high,low,9,namecheap,,,11/09/2026 04:49
 22376fe5-5f71-4fed-ace2-b5eab53b2e4b,rhizop.us,available,,,high,high,8,,,,
+96a5f08a-a612-4a6e-8e77-2ec039f0087c,coal.black,available,15.73,51.95,high,low,10,spaceship,,,28/09/2026 01:38
 e8acc3e9-4f67-4ca0-8dac-731b2f64ff27,foet.us,resell,,,high,high,6,"Spaceship, Inc.",15/06/2026 20:06,15/06/2027 20:06,26/09/2026 06:10
 df1d93fd-92f9-4bb8-8299-bd6c9ffa3ab2,seago.ing,available,12.98,16.98,medium,low,8,namecheap,,,04/09/2026 00:24
 82777b51-e50e-476f-b0c7-1134ec5282c2,houseco.at,available,,,high,high,9,,,,
@@ -270,7 +274,7 @@ c190d4b0-dab9-43c3-af65-e33666eb89a6,ooz.ing,premium,195,195,medium,low,6,namech
 9e008a99-572c-46b8-9b64-8b6194fe10ba,nu.de,resell,,,high,low,4,,,,26/09/2026 07:50
 17f0a0be-4097-4278-814d-f85098687f35,paludo.us,available,,,high,high,8,,,,
 70724a59-99bb-4941-8d78-056141cf92ce,t.in,available,,,high,low,3,,,,
-6d913853-05cc-4fd2-aa6a-ec8ade45de39,asi.de,resell,,,high,low,5,,,,26/09/2026 04:04
+6d913853-05cc-4fd2-aa6a-ec8ade45de39,asi.de,resell,,,medium,low,5,,,,28/09/2026 04:56
 880bdd44-1e5e-40b5-9d90-03b616e0cc1b,throbb.ing,premium,117,117,high,low,9,namecheap,,,11/09/2026 14:47
 e2ed28be-ce1a-429d-b37b-cece00eb6eee,ach.ing,premium,812.5,812.5,medium,low,6,name.com,,,
 ebffeeae-f8ae-4e6f-be52-acdc52801a5f,inte.rest,premium,2047.5,2925,high,low,8,namecheap,,,08/09/2026 14:02
@@ -289,7 +293,7 @@ b6adfe24-e607-4522-89be-00de9725c9ba,involv.ing,premium,812.5,,high,low,9,name.c
 4e5665d6-d25c-43b1-aaec-870d0248e648,turg.id,premium,221,22.75,medium,low,6,namecheap,,,10/08/2026 18:07
 777b76cf-15d9-4416-90b5-d08fd4280551,longlast.ing,premium,62.5,,high,low,12,name.com,,,
 4e3bdccc-ac00-434b-a7fc-098c2fdd324b,scar.red,resell,,,medium,low,7,"NameCheap, Inc.",17/04/2014 16:00,17/04/2027 16:00,26/09/2026 08:50
-8ee69377-cd13-4e8a-b984-cb76ce4999b0,invest.ing,premium,39000,39000,high,low,9,namecheap,,,25/09/2026 06:24
+8ee69377-cd13-4e8a-b984-cb76ce4999b0,invest.ing,premium,31050.2,31050.2,high,low,9,spaceship,,,28/09/2026 02:40
 1b39d47a-f908-4085-bfae-182e263551c5,comfort.ing,premium,3900,3900,high,low,10,namecheap,,,24/09/2026 16:25
 7b92cd41-c53c-4f76-b7c3-be85ba163e95,ca.me,premium,250000.1,26.99,high,low,4,name.com,,,
 0e829cf1-744a-4a95-a16b-593c4bc02a82,ammoni.ac,available,28.98,76.98,medium,low,8,namecheap,,,
@@ -344,7 +348,7 @@ f636d147-64ea-47be-bcbc-b71c8b8ff7ac,arch.ing,premium,3900,3900,medium,low,7,nam
 9e3b916c-bed7-4d8f-a8c2-a4430a87d2d6,fil.my,premium,471.2,673.15,high,low,5,name.com,,,12/08/2026 14:28
 224b16c1-60cd-42e4-b379-d83ee0e0a4dd,huf.fish,available,14.99,56.99,medium,low,7,name.com,,,21/08/2026 14:38
 7236d537-9fb7-4b6b-81b2-5e0feacddb7e,ceil.ing,premium,3900,3900,high,low,7,namecheap,,,24/09/2026 13:23
-84a7dc19-2d77-4ae9-9f14-5bf3731fd3e6,lands.at,available,,,high,high,7,,,,
+84a7dc19-2d77-4ae9-9f14-5bf3731fd3e6,lands.at,resell,,,high,low,7,,,,28/09/2026 04:27
 b4412c01-47d6-4be5-ac95-1624da470ee5,tomboyi.sh,available,34.98,76.98,medium,low,9,namecheap,,,21/08/2026 14:32
 c35d9a6b-d6bd-4d4e-be76-928a64eb5199,learn.ing,premium,39000,39000,high,low,8,namecheap,,,27/09/2026 01:54
 8f0f5528-3f4c-49dd-81e8-03807c8f25cd,beginn.ing,premium,3750,3750,high,low,9,name.com,,,09/08/2026 09:06
@@ -417,7 +421,7 @@ cff7c94d-cec2-49c0-9dc3-15b4232fb7cd,maximis.ing,available,12.98,16.98,high,low,
 7d9bb4b6-27d2-4368-9a66-c4e58d8103dc,alec.to,resell,,,medium,low,6,Tonic,01/10/2023 02:27,01/08/2028 00:00,26/09/2026 01:29
 27df5485-7280-4bff-a991-8b8a0902869d,schoolwi.de,available,5.99,5.99,medium,low,10,namesilo,,,09/09/2026 23:18
 9539f553-a63d-4f4f-b9e9-86f610c1bcb2,unexcit.ing,available,12.98,16.98,medium,low,10,namecheap,,,12/09/2026 09:32
-d89d04ea-40bd-480a-8902-8b01ef3b4b05,advertis.ing,premium,1690,1690,high,low,11,namecheap,,,23/09/2026 07:26
+d89d04ea-40bd-480a-8902-8b01ef3b4b05,advertis.ing,premium,1690,1690,high,low,11,namecheap,,,28/09/2026 04:51
 aa2226e1-1595-4f2e-bb56-31fa7ad031fa,guid.ing,premium,437.5,437.5,high,low,7,name.com,,,14/08/2026 08:49
 0f98e7a3-9a85-4fa6-be0c-b3d7fbed1e50,sta.id,premium,1451.03,20.06,medium,low,5,namesilo,,,10/09/2026 01:34
 b79be803-3da3-45b4-8150-6abee465720e,max.im,available,,,high,low,5,,,,
@@ -425,7 +429,7 @@ b79be803-3da3-45b4-8150-6abee465720e,max.im,available,,,high,low,5,,,,
 f8d88d8f-a2c6-401c-98f7-1d8ee3daa93f,ai.red,resell,,,high,low,5,"Spaceship, Inc.",21/06/2024 03:22,21/06/2027 03:22,26/09/2026 01:27
 eecb3803-fc61-4643-8f46-48d85194bfed,ariocarp.us,available,5.49,7.99,medium,low,10,namesilo,,,20/09/2026 05:32
 bc80f1d6-9d69-415e-93a0-e538889d0b06,barthol.in,available,7.95,7.95,medium,low,9,namesilo,,,22/09/2026 09:14
-43499531-a39d-4b54-9ef7-7fe7b826040b,re.place,resell,,,high,low,7,Dynadot Inc,26/11/2016 10:28,26/11/2026 10:28,26/09/2026 08:36
+43499531-a39d-4b54-9ef7-7fe7b826040b,re.place,resell,,,high,low,7,Dynadot Inc,26/11/2016 10:28,26/11/2026 10:28,28/09/2026 01:47
 89a16a16-68a1-456d-99bd-0f295838d90d,ail.ing,premium,195,195,high,low,6,namecheap,,,17/09/2026 21:06
 9c1e173c-1814-4c60-ac49-856cce19c29a,cyber.space,premium,3250,13000,high,medium,10,namecheap,,,27/09/2026 06:18
 d8561c6f-4542-441a-8c89-aab99032e3c9,albu.la,available,27.99,27.99,medium,low,6,namesilo,,,18/09/2026 03:24
@@ -439,7 +443,7 @@ d1e4630f-0d67-467e-9b33-de9b5019af9f,assum.ing,premium,437.5,437.5,medium,low,8,
 10213aa4-8058-4ea2-ac3c-50169707605e,arcti.id,available,14.19,20.75,medium,low,7,namesilo,,,20/09/2026 02:47
 a3ec1a6f-1e75-4a87-921b-310e37c7678f,animalivoro.us,available,,,high,high,13,,,,
 aafede42-5484-49d2-828a-79c5dfee3a36,behead.ing,premium,195,195,medium,low,9,namecheap,,,23/09/2026 03:20
-db9dd890-887a-4618-8cff-84b3024d6358,think.ing,premium,39000,39000,high,low,8,namecheap,,,19/09/2026 06:38
+db9dd890-887a-4618-8cff-84b3024d6358,think.ing,premium,39000,39000,high,low,8,namecheap,,,28/09/2026 02:31
 1de687b0-8fc0-4f60-8f2a-0d26f91609a6,deciduo.us,available,5.98,10.98,high,low,9,namecheap,,,13/08/2026 21:26
 afa0434f-59b5-425f-8dcd-73ec3d88efb5,la.me,premium,36250.01,27.99,high,low,4,name.com,,,13/08/2026 07:03
 6fe566b3-053a-44e1-b83a-9c0417dde935,acroso.me,available,9.99,19.99,medium,low,8,namesilo,,,17/09/2026 03:58
@@ -508,6 +512,7 @@ fa726b1a-3519-404c-bfe2-7cb1efacc1e9,aidone.us,resell,,,medium,low,8,"Spaceship,
 eff2b0b4-2fdf-4b83-9ea9-59fdfc0fc22f,catc.law,available,95.99,95.99,medium,low,7,namesilo,,,23/09/2026 23:59
 f69a6bac-09f6-4e04-871e-ff6e83730c12,gorgeo.us,resell,,,high,low,8,"GoDaddy.com, LLC",24/04/2002 16:57,23/04/2027 23:59,26/09/2026 06:27
 6c94aac9-9765-4676-8961-873f9e245905,recover.ing,premium,3900,3900,high,low,10,namecheap,,,23/09/2026 22:44
+58dae6f1-8a5f-4186-ba4b-17416018124a,charg.ing,premium,,,high,low,8,,,,28/09/2026 04:40
 423a7b2a-6973-449e-a71e-108a5eca7b74,a.social,available,,,medium,low,7,,,,
 c05ca0f3-1083-4812-882c-7a4d90285fbc,engross.ing,available,12.98,16.98,high,low,10,namecheap,,,10/09/2026 19:54
 c2b02a6d-3142-4c4c-8934-e5abfd8a2a5a,anatropo.us,available,5.49,7.99,medium,low,10,namesilo,,,
@@ -550,7 +555,7 @@ a455fa4a-00b0-4a42-ae10-f5cf8e37824e,colo.red,resell,,,high,low,7,Dynadot Inc,17
 d342ad52-3c6d-4b45-b88b-f70423e364b8,dis.co,resell,,,high,low,5,Dynadot Inc,24/08/2025 17:00,24/08/2027 23:59,26/09/2026 05:35
 7b43456b-496c-450d-9fc5-36eb098dee8b,tw.at,resell,,,high,medium,4,Realtime Register B.V. ( https://nic.at/registrar/423 ),,,26/09/2026 09:49
 08679d0c-fc87-43f5-9dc9-902aa6815065,ba.you,premium,3250,3250,high,low,5,namecheap,,,22/09/2026 18:09
-2ef6f638-151a-48c1-8071-6a9d2a5339cb,hack.ing,premium,13000,13000,high,low,7,namecheap,,,25/09/2026 04:38
+2ef6f638-151a-48c1-8071-6a9d2a5339cb,hack.ing,premium,13000,13000,high,medium,7,namecheap,,,28/09/2026 01:47
 0162f02e-b653-46e0-ab02-bc26eb0eb396,ber.ing,premium,1690,1690,high,low,6,namecheap,,,23/09/2026 04:03
 16806f56-40a0-4209-88d0-328e63d653b2,perform.ing,premium,13000,13000,high,low,10,namecheap,,,27/09/2026 06:59
 706559a0-46e0-4284-ba85-7f327cc8e6a0,keyse.at,available,11.99,11.99,high,high,8,namesilo,,,27/09/2026 06:59
@@ -607,7 +612,7 @@ e9f5fe06-c1c3-4b61-91f5-091c08a31451,utiliz.ing,premium,195,195,medium,low,9,nam
 1ef76cba-598f-403e-8823-88d38f00b1e8,ri.co,resell,,,high,low,4,"GoDaddy.com, LLC",26/04/2010 07:55,25/04/2027 23:59,26/09/2026 08:40
 09f22e36-56b4-4ce7-b6d2-5b230e2ee90a,lucifugo.us,available,5.49,7.99,medium,low,10,namesilo,,,24/08/2026 10:55
 291b74d4-f32f-48c6-91d1-1340596eaf95,pr.one,premium,10350,10350,medium,low,5,namesilo,,,27/09/2026 07:37
-86e082fd-f13f-4bb5-99ed-81b7287e3638,detect.ing,premium,3750,,high,low,9,name.com,,,
+86e082fd-f13f-4bb5-99ed-81b7287e3638,detect.ing,premium,3000.2,,high,low,9,unstoppable,,,28/09/2026 06:30
 0bc6366a-aa29-48f0-9d6e-bb05efda4ea7,medi.co,resell,,,high,high,6,"GoDaddy.com, LLC",09/09/2010 15:10,08/09/2027 23:59,26/09/2026 07:29
 14d2cd2e-a624-460f-9c0c-a751594cb93b,tailco.at,available,,,high,high,8,,,,
 751e5ad4-d8a1-4961-9ba5-84bff836177a,cap.one,premium,625,,medium,low,6,name.com,,,
@@ -624,7 +629,7 @@ a05c6929-5b64-4ccd-bb38-89d8628051fe,punish.ing,premium,195,195,high,low,9,namec
 bb030dc5-7121-496f-bd5f-1349408dfd9b,myo.id,premium,1451.03,20.06,low,low,5,namesilo,,,03/09/2026 12:10
 12dae4e8-df8c-4bee-b22e-3c86cf02390d,ancyl.us,available,5.49,7.99,medium,low,7,namesilo,,,19/09/2026 03:54
 2ea63090-fe56-487b-94bd-8f3025e0baf8,minacio.us,available,5.98,10.98,medium,low,9,namecheap,,,24/08/2026 19:57
-babddba0-09c9-4b40-a75b-89c272a3fc0a,burn.ing,premium,13000,13000,high,low,7,namecheap,,,23/09/2026 11:45
+babddba0-09c9-4b40-a75b-89c272a3fc0a,burn.ing,premium,10350.2,10350.2,high,low,7,spaceship,,,28/09/2026 02:13
 f5899083-52e7-4784-b63d-463140fdd59b,amylaceo.us,available,5.49,7.99,medium,low,10,namesilo,,,
 555d12ea-b0a3-450e-a05d-7f7129066384,nonsmok.ing,available,12.98,16.98,medium,low,11,namecheap,,,16/09/2026 20:03
 18e62dd4-7e4c-475c-a9da-1548823f2d32,horm.one,premium,1107,1107,high,low,7,namesilo,,,17/08/2026 01:04
@@ -665,6 +670,7 @@ decbde89-2417-4edd-b37e-2047a1291186,vapouri.sh,available,34.98,76.98,medium,low
 705b788f-4923-4b55-80ea-8fe3043b695a,whitefi.sh,available,39.99,47.99,medium,low,10,namesilo,,,
 5899e9eb-b061-4110-99d0-ba88600d9830,weekl.ong,available,18.98,24.98,medium,low,8,namecheap,,,10/09/2026 05:01
 0596a851-706f-4f08-991b-4c6a9c9e3b9f,monot.one,premium,1107,1107,high,low,8,namesilo,,,25/08/2026 05:25
+e8418a31-4470-4aaf-87ee-ddb490c1d468,ald.rich,available,79,160.72,high,low,7,dynadot,,,28/09/2026 04:14
 b3dc6a31-69f3-4769-849c-de95ec0105e3,glitter.ing,premium,3750,3750,high,low,10,name.com,,,
 22fabeae-b50e-4f3f-900a-5ef3693b9d99,glow.ing,premium,12500,12500,high,low,7,name.com,,,20/08/2026 15:11
 9a362345-a188-4c46-81b1-b2acfed97c33,acetami.de,available,6.98,9.88,medium,low,9,namecheap,,,16/09/2026 23:49
@@ -777,6 +783,7 @@ d99506b1-0f8b-4eea-a23f-c207c3e371a9,peek.ing,premium,3750,,high,low,7,name.com,
 5df10bc4-ad9b-428e-bc19-774863213398,lash.ing,premium,1625,1625,medium,low,7,name.com,,,22/08/2026 20:10
 6f99e4df-2cff-4dfe-9dae-db90b110d452,pilo.us,resell,,,high,medium,6,"GoDaddy.com, LLC",06/06/2021 18:04,06/06/2027 18:04,26/09/2026 08:09
 fb03a19c-3564-4267-a404-0632646e0302,ragamuff.in,resell,,,medium,low,10,NAMECHEAP,18/02/2026 07:27,18/02/2027 07:27,26/09/2026 08:28
+cb117ea1-3186-44b5-b4b9-fd3b1471426f,choos.ing,premium,650.2,,high,low,8,unstoppable,,,28/09/2026 03:32
 160bc846-85f6-4501-8610-75a268498aa8,undeter.red,available,9.48,28.48,medium,low,10,namecheap,,,12/09/2026 07:59
 d4bb0156-3536-4b5b-b903-39b66488f06b,dispatch.ing,premium,845,845,high,low,11,namecheap,,,04/09/2026 00:56
 d569169e-e1e0-4796-aa6d-da0b3593224f,annoy.ing,premium,1690,1690,high,low,8,namecheap,,,22/09/2026 05:19
@@ -809,7 +816,7 @@ d946252d-16b9-4d00-b275-0eab4ac80c1b,cinna.bar,premium,393.75,562.5,medium,low,8
 bfe44df8-8a00-46b7-bbee-f1ec4bcfbc51,pa.in,available,,,high,low,4,,,,
 0c18f974-b832-48d7-a781-2365b9779c16,jewi.sh,resell,,,high,low,6,"NameCheap, Inc.",19/03/2010 07:13,19/03/2027 07:13,26/09/2026 07:00
 968868dd-1728-4398-981a-66cc72f3af87,surco.at,available,,,high,high,7,,,,
-aca71156-b224-4434-b3b9-06888d462d7d,terrify.ing,premium,112.5,,medium,low,10,name.com,,,
+aca71156-b224-4434-b3b9-06888d462d7d,terrify.ing,premium,93.35,93.35,medium,low,10,spaceship,,,28/09/2026 02:19
 28d2304b-d8bc-4a22-974f-8cdd67cf5e79,greatco.at,available,,,high,high,9,,,,
 9884df37-09b2-46e1-8bf1-306413d1b15d,harrow.ing,premium,187.5,187.5,medium,low,9,name.com,,,
 f99eafaf-6edc-498a-8b0d-94badf509508,ask.ing,premium,37500,,high,low,6,name.com,,,
@@ -849,7 +856,7 @@ e6348621-b50c-4311-b01e-20f793cafb37,unhear.ing,available,18.99,18.99,medium,low
 315ff73e-6c18-45ee-a175-73d5f641de19,hugemongo.us,available,,,high,high,11,,,,
 f802375f-ca3f-477c-819d-c3f517e9c11a,handl.ing,premium,1690,1690,high,low,8,namecheap,,,25/09/2026 23:04
 3eec7316-b9f7-44a6-848f-8e0304d1f3ba,venerat.ing,available,12.98,16.98,high,low,10,namecheap,,,09/09/2026 16:09
-eaf78912-9bc1-4182-a2c1-1e3702b637f0,counsel.ing,premium,13000,13000,high,low,10,namecheap,,,24/09/2026 02:30
+eaf78912-9bc1-4182-a2c1-1e3702b637f0,counsel.ing,premium,13000,13000,high,low,10,namecheap,,,28/09/2026 05:25
 c63aeb3e-2346-4f9e-8355-fa80a9d7141f,answer.ing,premium,13000,13000,high,low,9,namecheap,,,22/09/2026 05:38
 8716b7ea-92c5-4c57-b21d-0724e7b4d6a8,develop.ing,premium,13000,13000,high,low,10,namecheap,,,24/09/2026 07:59
 ff6d3f2d-3ad8-4807-8b1b-f78f00ae9b40,pervio.us,resell,,,high,low,8,"GoDaddy.com, LLC",12/02/2023 05:01,12/02/2027 05:01,26/09/2026 08:07
@@ -863,6 +870,7 @@ c1151877-6a6f-408a-af66-51741ce279ac,unpowe.red,available,9.48,28.48,medium,low,
 62121529-5254-4384-815e-9ff4043aaa91,jesu.it,resell,,,high,low,6,,27/03/2000 00:00,27/03/2027 00:00,26/09/2026 06:59
 146a29bc-a8e2-4cc1-8e76-c3d80a802e51,carp.ing,available,12.98,16.98,medium,low,7,namecheap,,,18/08/2026 00:03
 777ce48e-5889-4d8c-81ef-f0c6f93eba57,hyo.id,premium,1451.03,20.06,medium,low,5,namesilo,,,21/08/2026 16:35
+6e8b1d9b-66a3-482e-add5-4cb30c76e282,ursu.la,resell,,,medium,low,6,,,,28/09/2026 03:44
 9e84c2ca-42d5-465b-af22-1a748d37aa14,wrongdo.ing,available,12.98,16.98,medium,low,10,namecheap,,,17/09/2026 05:25
 9132e57f-50d4-4f4e-8e4a-a227626e738e,officio.us,resell,,,medium,low,9,"Spaceship, Inc.",01/04/2026 07:28,01/04/2027 07:28,26/09/2026 07:52
 f6eefbe3-1562-4d12-9025-120e61b4b265,whenuap.ai,available,92.98,,high,high,9,namecheap,,,
@@ -870,6 +878,7 @@ f6eefbe3-1562-4d12-9025-120e61b4b265,whenuap.ai,available,92.98,,high,high,9,nam
 6c6ad059-9c95-4762-94fc-4978e345e1b3,aneuplo.id,available,14.19,20.75,medium,low,9,namesilo,,,
 d8ac2e68-d475-4acc-aef0-6fa9bdabb9f6,de.spot,premium,3450,3450,medium,low,6,namesilo,,,21/09/2026 06:11
 49e577ef-baad-46ad-85de-aacbd11bbffa,imped.ing,available,12.98,16.98,medium,low,8,namecheap,,,12/08/2026 11:44
+78c47589-e19b-4d32-ab27-0c0b9c3cc3a2,m.ing,premium,103500.2,103500.2,high,low,4,spaceship,,,28/09/2026 02:26
 af5c0513-b0a0-43b4-9b76-e220577cbd31,soak.ing,premium,455,455,medium,low,7,namecheap,,,16/09/2026 03:40
 16c7fa7b-e7aa-495b-935b-d16eaed674f1,vulturo.us,available,5.49,7.99,high,medium,9,namesilo,,,09/09/2026 10:25
 4941f05b-fa20-41c9-8f5f-d79aca1854c5,fulguro.us,available,7.99,18.99,medium,low,9,name.com,,,13/08/2026 19:01
@@ -936,7 +945,7 @@ d64e4ebe-0dd6-4178-a2ee-f2aef31a2f27,undesi.red,available,9.48,28.48,medium,low,
 e82778ec-e7a8-4e70-be84-b79850b0b677,boh.me,resell,,,high,low,5,"GoDaddy.com, LLC",22/12/2013 02:35,22/12/2026 02:35,26/09/2026 04:31
 d3dab2e0-2ad0-4173-9160-b27ce4bd2e17,meerk.at,available,,,high,high,7,,,,
 d8944e7e-7d7e-452c-af10-eac6c1f0a14d,lowb.red,available,22.19,23.49,low,low,7,namesilo,,,10/08/2026 22:02
-5c92b79a-5c8d-4042-9264-c57f8aaef268,morn.ing,premium,12500,,high,low,7,name.com,,,
+5c92b79a-5c8d-4042-9264-c57f8aaef268,morn.ing,premium,12500,,high,low,7,name.com,,,28/09/2026 01:56
 8d5e0f64-9d7d-453d-b26e-41506b8b8b49,enchant.ing,premium,437.5,437.5,medium,low,10,name.com,,,21/08/2026 07:46
 4f70060d-8b57-4557-af16-c2dae7f59e5c,nonblasphemo.us,available,,,medium,low,14,,,,
 b830c260-a464-4a7b-a263-aa7b7a0c7707,ribh.us,available,,,high,high,6,,,,
@@ -960,11 +969,12 @@ d1563af9-dfaa-4c78-af8d-d2d2d9080587,unrepai.red,available,9.48,28.48,medium,low
 05f4069f-db81-44c2-90df-a2f23b90a22a,inla.id,premium,212.48,20.06,medium,low,6,namesilo,,,22/08/2026 05:47
 3398201e-bb35-4ac4-abf8-2a44b6c4f9fb,vitreo.us,resell,,,high,low,8,"GoDaddy.com, LLC",31/12/2002 22:49,30/12/2026 23:59,26/09/2026 10:01
 36f9aece-fdd2-4ef2-ad4d-8ac427a01a53,ripp.ing,premium,195,195,high,low,7,namecheap,,,09/09/2026 13:59
+2fb6762f-0cb4-41c5-9562-5ccd99acdbc5,lin.ing,premium,13000,13000,high,low,6,namecheap,,,28/09/2026 06:11
 2fbe460e-3a6c-422d-827c-10ea24485ec6,peaco.at,available,,,high,high,7,,,,
 e9c4cd0e-ea1a-4ddf-82c6-b430e2fd1adf,barebo.at,available,11.99,11.99,high,low,8,namesilo,,,22/09/2026 05:23
 148144b7-ceb2-458d-b19b-341f9e3b29a2,vault.ing,premium,3900,3900,high,low,8,namecheap,,,22/09/2026 02:40
 834c1795-21f7-4bdc-bab3-5c8d81e41d2b,enraptu.red,available,9.48,28.48,high,low,10,namecheap,,,14/08/2026 23:46
-f7e7ee7c-ac9f-46f9-8f08-a4704e84331a,fetch.ing,premium,1625,1625,high,low,8,name.com,,,18/08/2026 02:20
+f7e7ee7c-ac9f-46f9-8f08-a4704e84331a,fetch.ing,premium,1625,1625,high,low,8,name.com,,,28/09/2026 05:42
 a5dd7840-c79a-4a11-b2bb-b9cc2a93ca2a,controll.ing,premium,812.5,,high,low,11,name.com,,,
 fd088b75-98a4-48a0-83a5-f1c1139c2293,sculptu.red,available,11.49,23.49,high,low,10,namesilo,,,27/09/2026 06:38
 d6997dcd-1b7c-4eca-a2db-921e0e6ecf3f,styl.ing,premium,1690,1690,high,low,7,namecheap,,,17/09/2026 18:14
@@ -989,13 +999,3 @@ d98246d5-16c0-4339-b7c0-8829eab17a00,h.im,available,,,high,low,3,,,,
 1aed284e-7e38-443d-9b10-449bcc156c2f,dogg.ing,premium,437.5,437.5,medium,low,7,name.com,,,14/08/2026 15:03
 b6d6b9a8-58cd-46ae-8897-a303741ac72f,arbovir.us,available,5.98,10.98,high,low,9,namecheap,,,20/09/2026 00:52
 4b59cdc3-dcc3-4955-a35d-956b84ffc7fc,diclino.us,available,5.49,7.99,medium,low,9,namesilo,,,14/08/2026 06:34
-601c5072-14de-4180-a788-bd980f8ca124,ag.one,premium,13000,13000,medium,low,5,namecheap,,,
-f906eb54-a392-4a31-8cf8-981826e31c8c,gramoph.one,premium,1107,1107,medium,low,10,namesilo,,,17/09/2026 02:30
-8161e05f-4ac3-4758-832d-358abcc48b4d,ow.ing,premium,1820,1820,medium,low,5,namecheap,,,
-ae3b4122-0a46-455d-8a10-6e838b4d40cb,accept.ing,premium,3900,3900,high,low,9,namecheap,,,21/09/2026 15:33
-f54a4699-a5cb-4db2-a778-ce067d58af32,babin.ski,available,27.99,64.99,medium,low,8,namesilo,,,21/09/2026 12:44
-0623f7a2-dea6-493a-8c73-10a470487d63,behr.ing,premium,117,117,high,low,7,namecheap,,,23/09/2026 04:03
-e3f8ece2-08f8-4ce5-b006-3fe563cb4863,technocr.at,available,,,high,high,10,,,,
-204fcd43-b3fc-42db-8dbf-41c6834e919f,lynchp.in,available,7.95,7.95,high,low,8,namesilo,,,21/09/2026 15:18
-bde57c4f-1e49-46d4-b678-1e0b49e186bd,sett.ing,premium,3750,,high,low,7,name.com,,,
-af909e9e-aef9-44c0-9b97-af94b1e610f6,hots.hot,premium,1300,1300,high,low,7,namecheap,,,21/09/2026 17:48
