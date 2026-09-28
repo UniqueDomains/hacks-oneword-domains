@@ -1,10 +1,10 @@
-# One-Word Domain Hack Names (.ing, .at, .me & More) (1,539)
+# One-Word Domain Hack Names (.ing, .at, .me & More) (1,545)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C539%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C545%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 2,107 one-word domain hack names — where the TLD completes the word, like dogwalk.ing or come.at — spanning 506 TLDs. Median ask is $2,984, with 799 names listed under $500. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,539 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,545 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,539 domains · **Median ask:** $3,639.91 · **High-demand under $2,500:** 20
+**Public extract:** 1,000 rows · **Live catalog:** 1,545 domains · **Median ask:** $3,669.65 · **High-demand under $2,500:** 24
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| dis.co        | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                             |
-| pyram.id      | resell    | —         | —             | high           | low    | 7      | PT Jagat Informasi Solusi (int)                         |
-| ri.co         | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
-| mov.ing       | premium   | $3,900    | $3,900        | high           | low    | 6      | namecheap                                               |
-| burn.ing      | premium   | $13,000   | $13,000       | high           | low    | 7      | namecheap                                               |
-| hear.ing      | premium   | $13,000   | $13,000       | high           | low    | 7      | namecheap                                               |
-| convinc.ing   | premium   | $65       | $65           | high           | low    | 10     | namecheap                                               |
-| stepp.ing     | premium   | $455      | $455          | high           | low    | 8      | namecheap                                               |
-| fo.rest       | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                                         |
-| keyse.at      | available | —         | —             | high           | high   | 8      | —                                                       |
-| pay.ing       | premium   | $130,000  | $130,000      | high           | low    | 6      | namecheap                                               |
-| tw.at         | resell    | —         | —             | high           | medium | 4      | Realtime Register B.V. ( https://nic.at/registrar/423 ) |
-| camp.ing      | premium   | $37,500   | $37,500       | high           | low    | 7      | name.com                                                |
-| perform.ing   | premium   | $12,500   | $12,500       | high           | low    | 10     | name.com                                                |
-| oilco.at      | available | —         | —             | high           | high   | 7      | —                                                       |
-| costu.me      | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                        |
-| ech.at        | available | —         | —             | high           | high   | 6      | —                                                       |
-| shrimpbo.at   | available | —         | —             | high           | high   | 10     | —                                                       |
-| semiprecio.us | available | —         | —             | high           | high   | 13     | —                                                       |
-| rul.ing       | premium   | $1,690    | $1,690        | high           | medium | 6      | namecheap                                               |
+| domain  | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                         |
+| ------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------- |
+| agui.sh | available | $34.98      | $76.98        | medium         | low    | 6      | namecheap                                         |
+| j.at    | resell    | —           | —             | high           | high   | 3      | 1API GmbH ( https://nic.at/registrar/578 )        |
+| b.lat   | premium   | $2,600      | $2,600        | medium         | low    | 4      | namecheap                                         |
+| albu.la | available | $27.99      | $27.99        | medium         | low    | 6      | namesilo                                          |
+| v.at    | resell    | —           | —             | high           | low    | 3      | GoDaddy.com, LLC ( https://nic.at/registrar/693 ) |
+| ca.me   | premium   | $250,000.10 | $26.99        | high           | low    | 4      | name.com                                          |
+| bowf.in | available | $9.98       | $11.98        | medium         | low    | 6      | namecheap                                         |
+| ag.io   | resell    | —           | —             | high           | low    | 4      | Name.com, Inc.                                    |
+| d.ing   | premium   | $125,000    | —             | high           | low    | 4      | name.com                                          |
+| copu.la | available | $27.99      | $27.99        | medium         | low    | 6      | namesilo                                          |
+| d.eco   | resell    | —           | —             | high           | low    | 4      | 101domain GRS Limited                             |
+| f.lat   | premium   | $2,660      | $2,660        | high           | low    | 4      | namesilo                                          |
+| inu.red | available | $9.48       | $28.48        | medium         | low    | 6      | namecheap                                         |
+| de.co   | resell    | —           | —             | high           | low    | 4      | Hello Internet Corp.                              |
+| k.ing   | premium   | $130,000    | $130,000      | high           | medium | 4      | namecheap                                         |
+| nupr.in | available | $7.95       | $7.95         | medium         | low    | 6      | namesilo                                          |
+| nu.de   | resell    | —           | —             | high           | low    | 4      | —                                                 |
+| la.me   | premium   | $36,250.01  | $27.99        | high           | low    | 4      | name.com                                          |
+| oldi.sh | available | $34.98      | $76.98        | medium         | low    | 6      | namecheap                                         |
+| ri.co   | resell    | —           | —             | high           | low    | 4      | GoDaddy.com, LLC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,539 live domains                         |
+| 1,000-row public sample | 1,545 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 20 high-demand names under $2,500          |
+| Basic exported fields   | 24 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
