@@ -1,10 +1,10 @@
-# One-Word Domain Hack Names (.ing, .at, .me & More) (1,734)
+# One-Word Domain Hack Names (.ing, .at, .me & More) (1,773)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C734%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C773%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 2,107 one-word domain hack names — where the TLD completes the word, like dogwalk.ing or come.at — spanning 506 TLDs. Median ask is $2,984, with 799 names listed under $500. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,734 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,773 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,734 domains · **Median ask:** $3,309.99 · **High-demand under $2,500:** 28
+**Public extract:** 1,000 rows · **Live catalog:** 1,773 domains · **Median ask:** $3,325.87 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | v.at     | resell    | —           | —             | high           | low    | 3      | GoDaddy.com, LLC ( https://nic.at/registrar/693 ) |
 | la.me    | premium   | $36,250.01  | $27.99        | high           | low    | 4      | name.com                                          |
 | inu.red  | available | $9.48       | $28.48        | medium         | low    | 6      | namecheap                                         |
-| ag.io    | resell    | —           | —             | high           | low    | 4      | Name.com, Inc.                                    |
+| a.run    | resell    | —           | —             | medium         | low    | 4      | —                                                 |
 | ly.me    | premium   | $23,533.93  | $16.48        | medium         | low    | 4      | spaceship                                         |
 | nupr.in  | available | $7.95       | $7.95         | medium         | low    | 6      | namesilo                                          |
-| ba.la    | resell    | —           | —             | medium         | low    | 4      | —                                                 |
-| m.ing    | premium   | $103,500.20 | $103,500.20   | high           | low    | 4      | spaceship                                         |
+| ag.io    | resell    | —           | —             | high           | low    | 4      | Name.com, Inc.                                    |
+| r.ink    | premium   | $3,821.33   | $3,821.33     | high           | low    | 4      | porkbun                                           |
 | abige.us | available | $6.99       | $10.99        | medium         | low    | 7      | name.com                                          |
-| bo.ca    | resell    | —           | —             | high           | low    | 4      | —                                                 |
+| b.org    | resell    | —           | —             | high           | medium | 4      | —                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,734 live domains                         |
+| 1,000-row public sample | 1,773 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 28 high-demand names under $2,500          |
+| Basic exported fields   | 29 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
