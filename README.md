@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 1,840 domains · **Median ask:** $3,194.42 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -25,7 +25,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 <p align="center">
   <a href="https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./hacks.csv">CSV</a> / <a href="./hacks.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| plann.ing  | premium   | $3,105.20  | $3,105.20     | high           | low    | 8      | spaceship        |
-| dog.fish   | resell    | —          | —             | high           | medium | 7      | Dynadot Inc      |
-| comput.ing | premium   | $3,900     | $3,900        | high           | low    | 9      | namecheap        |
-| bless.ing  | premium   | $3,750     | $3,750        | high           | low    | 8      | name.com         |
-| dash.ing   | premium   | $3,750     | $3,750        | high           | medium | 7      | name.com         |
-| gracio.us  | resell    | —          | —             | high           | low    | 8      | GoDaddy.com, LLC |
-| rally.ing  | premium   | $3,900     | $3,900        | high           | medium | 8      | namecheap        |
-| vo.id      | resell    | —          | —             | high           | medium | 4      | —                |
-| miss.ing   | premium   | $13,000    | $13,000       | high           | low    | 7      | namecheap        |
-| reveal.ing | premium   | $3,105.20  | $3,105.20     | high           | low    | 9      | spaceship        |
-| sin.us     | resell    | —          | —             | high           | low    | 5      | eNom, LLC        |
-| olym.pics  | resell    | —          | —             | high           | low    | 8      | Porkbun LLC      |
-| brood.ing  | premium   | $112.50    | $112.50       | high           | low    | 8      | name.com         |
-| s.hot      | premium   | $6,900     | $6,900        | high           | low    | 4      | namesilo         |
-| roll.ing   | premium   | $39,000    | $39,000       | high           | low    | 7      | namecheap        |
-| val.my     | premium   | $700.62    | $700.62       | high           | low    | 5      | namesilo         |
-| eat.ing    | premium   | $31,050.20 | $31,050.20    | high           | low    | 6      | spaceship        |
-| vi.car     | available | $2,070     | $2,400        | high           | low    | 5      | namecheap        |
-| a.tv       | resell    | —          | —             | high           | low    | 3      | —                |
-| b.lat      | premium   | $2,600     | $2,600        | medium         | low    | 4      | namecheap        |
+| domain      | status  | ask_price   | renewal_price | attractiveness | demand | length | registrar                                         |
+| ----------- | ------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------- |
+| smil.ing    | premium | $455        | $455          | high           | low    | 7      | namecheap                                         |
+| snapp.ing   | premium | $155.45     | $155.45       | high           | low    | 8      | spaceship                                         |
+| st.one      | premium | $10,350     | $10,350       | high           | low    | 5      | namesilo                                          |
+| pyram.id    | resell  | —           | —             | high           | low    | 7      | PT Jagat Informasi Solusi (int)                   |
+| ri.co       | resell  | —           | —             | high           | low    | 4      | GoDaddy.com, LLC                                  |
+| cap.one     | premium | $517.70     | $517.70       | high           | low    | 6      | spaceship                                         |
+| scatter.ing | premium | $672.95     | $672.95       | high           | low    | 10     | spaceship                                         |
+| mov.ing     | premium | $3,900      | $3,900        | high           | low    | 6      | namecheap                                         |
+| burn.ing    | premium | $10,350.20  | $10,350.20    | high           | low    | 7      | spaceship                                         |
+| hai.red     | resell  | —           | —             | high           | low    | 6      | Spaceship, Inc.                                   |
+| hear.ing    | premium | $13,000     | $13,000       | high           | low    | 7      | namecheap                                         |
+| pussyc.at   | resell  | —           | —             | high           | low    | 8      | Key-Systems GmbH ( https://nic.at/registrar/404 ) |
+| convinc.ing | premium | $65         | $65           | high           | low    | 10     | namecheap                                         |
+| qualify.ing | premium | $3,105.20   | $3,105.20     | high           | low    | 10     | spaceship                                         |
+| stepp.ing   | premium | $455        | $455          | high           | low    | 8      | namecheap                                         |
+| iph.one     | premium | $5,175.20   | $5,175.20     | high           | high   | 6      | spaceship                                         |
+| glitter.ing | premium | $3,105.20   | $3,105.20     | high           | low    | 10     | spaceship                                         |
+| strik.ing   | premium | $455        | $455          | high           | low    | 8      | namecheap                                         |
+| fo.rest     | resell  | —           | —             | high           | low    | 6      | Spaceship, Inc.                                   |
+| pay.ing     | premium | $103,500.20 | $103,500.20   | high           | medium | 6      | spaceship                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
