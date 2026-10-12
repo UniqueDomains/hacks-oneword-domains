@@ -16,7 +16,7 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 
 **Public extract:** 1,000 rows · **Live catalog:** 1,840 domains · **Median ask:** $3,194.42 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-12
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status  | ask_price   | renewal_price | attractiveness | demand | length | registrar                                         |
-| ----------- | ------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------- |
-| smil.ing    | premium | $455        | $455          | high           | low    | 7      | namecheap                                         |
-| snapp.ing   | premium | $155.45     | $155.45       | high           | low    | 8      | spaceship                                         |
-| st.one      | premium | $10,350     | $10,350       | high           | low    | 5      | namesilo                                          |
-| pyram.id    | resell  | —           | —             | high           | low    | 7      | PT Jagat Informasi Solusi (int)                   |
-| ri.co       | resell  | —           | —             | high           | low    | 4      | GoDaddy.com, LLC                                  |
-| cap.one     | premium | $517.70     | $517.70       | high           | low    | 6      | spaceship                                         |
-| scatter.ing | premium | $672.95     | $672.95       | high           | low    | 10     | spaceship                                         |
-| mov.ing     | premium | $3,900      | $3,900        | high           | low    | 6      | namecheap                                         |
-| burn.ing    | premium | $10,350.20  | $10,350.20    | high           | low    | 7      | spaceship                                         |
-| hai.red     | resell  | —           | —             | high           | low    | 6      | Spaceship, Inc.                                   |
-| hear.ing    | premium | $13,000     | $13,000       | high           | low    | 7      | namecheap                                         |
-| pussyc.at   | resell  | —           | —             | high           | low    | 8      | Key-Systems GmbH ( https://nic.at/registrar/404 ) |
-| convinc.ing | premium | $65         | $65           | high           | low    | 10     | namecheap                                         |
-| qualify.ing | premium | $3,105.20   | $3,105.20     | high           | low    | 10     | spaceship                                         |
-| stepp.ing   | premium | $455        | $455          | high           | low    | 8      | namecheap                                         |
-| iph.one     | premium | $5,175.20   | $5,175.20     | high           | high   | 6      | spaceship                                         |
-| glitter.ing | premium | $3,105.20   | $3,105.20     | high           | low    | 10     | spaceship                                         |
-| strik.ing   | premium | $455        | $455          | high           | low    | 8      | namecheap                                         |
-| fo.rest     | resell  | —           | —             | high           | low    | 6      | Spaceship, Inc.                                   |
-| pay.ing     | premium | $103,500.20 | $103,500.20   | high           | medium | 6      | spaceship                                         |
+| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| noth.ing            | premium   | $3,900     | $3,900        | high           | low    | 7      | namecheap                                           |
+| sta.red             | premium   | $640       | $640          | high           | low    | 6      | namesilo                                            |
+| rack.ing            | premium   | $3,105.20  | $3,105.20     | high           | low    | 7      | spaceship                                           |
+| appeal.ing          | premium   | $3,105.20  | $3,105.20     | high           | low    | 9      | spaceship                                           |
+| dat.ing             | premium   | $31,050.20 | $31,050.20    | high           | low    | 6      | spaceship                                           |
+| prospero.us         | resell    | —          | —             | high           | low    | 10     | Tucows Domains Inc.                                 |
+| whoop.ing           | premium   | $362.45    | $362.45       | high           | low    | 8      | spaceship                                           |
+| flatter.ing         | premium   | $155.45    | $155.45       | high           | low    | 10     | spaceship                                           |
+| manufactur.ing      | premium   | $1,345.70  | $1,345.70     | high           | low    | 13     | spaceship                                           |
+| stunt.ing           | premium   | $455       | $455          | high           | low    | 8      | namecheap                                           |
+| act.ing             | premium   | $30,000.20 | $39,000       | high           | medium | 6      | unstoppable                                         |
+| colou.red           | available | $9.48      | $28.48        | high           | low    | 8      | namecheap                                           |
+| int.estate          | premium   | $414.20    | $414.20       | high           | low    | 9      | spaceship                                           |
+| ch.art              | available | —          | —             | high           | low    | 5      | —                                                   |
+| fundamental.science | premium   | $5,500     | $110          | high           | low    | 19     | dynadot                                             |
+| forgiv.ing          | premium   | $117       | $117          | high           | low    | 9      | namecheap                                           |
+| vend.ing            | premium   | $3,900     | $3,900        | high           | low    | 7      | namecheap                                           |
+| cater.ing           | premium   | $10,000.20 | $10,350.20    | high           | low    | 8      | unstoppable                                         |
+| chai.red            | resell    | —          | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| si.de               | resell    | —          | —             | high           | low    | 4      | —                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
