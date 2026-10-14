@@ -1,10 +1,10 @@
-# One-Word Domain Hack Names (.ing, .at, .me & More) (1,840)
+# One-Word Domain Hack Names (.ing, .at, .me & More) (2,268)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C840%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C268%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 2,107 one-word domain hack names — where the TLD completes the word, like dogwalk.ing or come.at — spanning 506 TLDs. Median ask is $2,984, with 799 names listed under $500. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,840 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **2,268 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,840 domains · **Median ask:** $3,194.42 · **High-demand under $2,500:** 28
+**Public extract:** 1,000 rows · **Live catalog:** 2,268 domains · **Median ask:** $2,756.16 · **High-demand under $2,500:** 34
 
-**Last updated:** 2026-10-12
+**Last updated:** 2026-10-14
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| noth.ing            | premium   | $3,900     | $3,900        | high           | low    | 7      | namecheap                                           |
-| sta.red             | premium   | $640       | $640          | high           | low    | 6      | namesilo                                            |
-| rack.ing            | premium   | $3,105.20  | $3,105.20     | high           | low    | 7      | spaceship                                           |
-| appeal.ing          | premium   | $3,105.20  | $3,105.20     | high           | low    | 9      | spaceship                                           |
-| dat.ing             | premium   | $31,050.20 | $31,050.20    | high           | low    | 6      | spaceship                                           |
-| prospero.us         | resell    | —          | —             | high           | low    | 10     | Tucows Domains Inc.                                 |
-| whoop.ing           | premium   | $362.45    | $362.45       | high           | low    | 8      | spaceship                                           |
-| flatter.ing         | premium   | $155.45    | $155.45       | high           | low    | 10     | spaceship                                           |
-| manufactur.ing      | premium   | $1,345.70  | $1,345.70     | high           | low    | 13     | spaceship                                           |
-| stunt.ing           | premium   | $455       | $455          | high           | low    | 8      | namecheap                                           |
-| act.ing             | premium   | $30,000.20 | $39,000       | high           | medium | 6      | unstoppable                                         |
-| colou.red           | available | $9.48      | $28.48        | high           | low    | 8      | namecheap                                           |
-| int.estate          | premium   | $414.20    | $414.20       | high           | low    | 9      | spaceship                                           |
-| ch.art              | available | —          | —             | high           | low    | 5      | —                                                   |
-| fundamental.science | premium   | $5,500     | $110          | high           | low    | 19     | dynadot                                             |
-| forgiv.ing          | premium   | $117       | $117          | high           | low    | 9      | namecheap                                           |
-| vend.ing            | premium   | $3,900     | $3,900        | high           | low    | 7      | namecheap                                           |
-| cater.ing           | premium   | $10,000.20 | $10,350.20    | high           | low    | 8      | unstoppable                                         |
-| chai.red            | resell    | —          | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| si.de               | resell    | —          | —             | high           | low    | 4      | —                                                   |
+| domain              | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| dat.ing             | premium   | $31,050.20  | $31,050.20    | high           | low    | 6      | spaceship                                           |
+| prospero.us         | resell    | —           | —             | high           | low    | 10     | Tucows Domains Inc.                                 |
+| whoop.ing           | premium   | $362.45     | $362.45       | high           | low    | 8      | spaceship                                           |
+| flatter.ing         | premium   | $155.45     | $155.45       | high           | low    | 10     | spaceship                                           |
+| manufactur.ing      | premium   | $1,300.20   | $1,345.70     | high           | low    | 13     | unstoppable                                         |
+| stunt.ing           | premium   | $455        | $455          | high           | low    | 8      | namecheap                                           |
+| act.ing             | premium   | $30,000.20  | $39,000       | high           | medium | 6      | unstoppable                                         |
+| colou.red           | available | $9.48       | $28.48        | high           | low    | 8      | namecheap                                           |
+| int.estate          | premium   | $414.20     | $414.20       | high           | low    | 9      | spaceship                                           |
+| ch.art              | available | —           | —             | high           | low    | 5      | —                                                   |
+| fundamental.science | premium   | $5,500      | $110          | high           | low    | 19     | dynadot                                             |
+| forgiv.ing          | premium   | $117        | $117          | high           | low    | 9      | namecheap                                           |
+| vend.ing            | premium   | $3,105.20   | $3,105.20     | high           | low    | 7      | spaceship                                           |
+| cater.ing           | premium   | $10,350.20  | $10,350.20    | high           | low    | 8      | spaceship                                           |
+| chai.red            | resell    | —           | —             | high           | low    | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| si.de               | resell    | —           | —             | high           | low    | 4      | —                                                   |
+| temper.ing          | premium   | $195        | $195          | high           | low    | 9      | namecheap                                           |
+| s.ing               | premium   | $103,500.20 | $103,500.20   | high           | low    | 4      | spaceship                                           |
+| interlock.ing       | premium   | $117        | $117          | high           | low    | 12     | namecheap                                           |
+| gran.dad            | premium   | $129.20     | —             | high           | low    | 7      | unstoppable                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 1,840 live domains                                   |
+| 1,000-row public sample | 2,268 live domains                                   |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 28 high-demand names under $2,500                    |
+| Basic exported fields   | 34 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
