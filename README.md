@@ -1,10 +1,10 @@
-# One-Word Domain Hack Names (.ing, .at, .me & More) (1,445)
+# One-Word Domain Hack Names (.ing, .at, .me & More) (1,449)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C445%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C449%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 2,107 one-word domain hack names — where the TLD completes the word, like dogwalk.ing or come.at — spanning 506 TLDs. Median ask is $2,984, with 799 names listed under $500. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,445 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,449 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,445 domains · **Median ask:** $3,811.40 · **High-demand under $2,500:** 8
+**Public extract:** 1,000 rows · **Live catalog:** 1,449 domains · **Median ask:** $3,795.75 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-10-29
+**Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| dispatch.ing  | premium   | $672.95    | $672.95       | high           | medium | 11     | spaceship         |
-| p.in          | available | —          | —             | high           | medium | 3      | —                 |
-| bak.ing       | premium   | $3,105.20  | $3,105.20     | high           | low    | 6      | spaceship         |
-| francis.ca    | available | —          | —             | high           | low    | 9      | —                 |
-| crowdfund.ing | premium   | $350.20    | —             | high           | low    | 12     | unstoppable       |
-| annoy.ing     | premium   | $1,690     | $1,690        | high           | low    | 8      | namecheap         |
-| prestigio.us  | resell    | —          | —             | high           | low    | 11     | GoDaddy.com, LLC  |
-| spank.ing     | premium   | $3,000.20  | $3,750        | high           | low    | 8      | unstoppable       |
-| touch.ing     | premium   | $13,000    | $13,000       | high           | low    | 8      | namecheap         |
-| savega.me     | available | $9.43      | $17.28        | high           | low    | 8      | dynadot           |
-| rais.ing      | premium   | $3,105.20  | $3,105.20     | high           | low    | 7      | spaceship         |
-| ascend.ing    | premium   | $1,300.20  | $1,625        | high           | low    | 9      | unstoppable       |
-| pa.in         | available | —          | —             | high           | low    | 4      | —                 |
-| viol.in       | resell    | —          | —             | high           | low    | 6      | 1&1 IONOS SE      |
-| snowboard.ing | premium   | $3,000.20  | $3,105.20     | high           | low    | 12     | unstoppable       |
-| ask.ing       | premium   | $31,050.20 | $31,050.20    | high           | low    | 6      | spaceship         |
-| mainta.in     | resell    | —          | —             | high           | low    | 8      | Porkbun LLC       |
-| in.app        | premium   | —          | —             | high           | medium | 6      | Sav.com, LLC - 42 |
-| efficacio.us  | available | —          | —             | high           | low    | 11     | —                 |
-| develop.ing   | premium   | $10,000.20 | $13,000       | high           | low    | 10     | unstoppable       |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| ma.in       | available | —         | —             | high           | medium | 4      | —                      |
+| colo.red    | resell    | —         | —             | high           | low    | 7      | Dynadot Inc            |
+| perform.ing | premium   | $13,000   | $13,000       | high           | low    | 10     | namecheap              |
+| a.la        | available | —         | —             | high           | low    | 3      | —                      |
+| desiro.us   | available | $6.50     | $6.50         | high           | low    | 8      | cloudflare             |
+| inform.ing  | premium   | $3,105.20 | $3,105.20     | high           | low    | 9      | spaceship              |
+| camp.ing    | premium   | —         | —             | high           | low    | 7      | —                      |
+| refuel.ing  | premium   | $150.20   | $155.45       | high           | low    | 9      | unstoppable            |
+| st.one      | premium   | $9,750    | $9,750        | high           | high   | 5      | namecheap              |
+| hack.ing    | premium   | $13,000   | $13,000       | high           | low    | 7      | namecheap              |
+| guerril.la  | resell    | —         | —             | high           | medium | 9      | Network Solutions, LLC |
+| smil.ing    | premium   | $455      | $455          | high           | low    | 7      | namecheap              |
+| snapp.ing   | premium   | $155.45   | $155.45       | high           | low    | 8      | spaceship              |
+| medi.co     | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC       |
+| someti.me   | resell    | —         | —             | high           | low    | 8      | Realtime Register B.V. |
+| mov.ing     | premium   | $3,105.20 | $3,105.20     | high           | low    | 6      | spaceship              |
+| melilot.us  | available | $3.99     | $11.65        | high           | low    | 9      | godaddy                |
+| i.deal      | available | —         | —             | high           | low    | 5      | —                      |
+| hus.band    | premium   | $1,035.20 | $1,035.20     | high           | low    | 7      | spaceship              |
+| horm.one    | premium   | $1,107    | $1,107        | high           | low    | 7      | namesilo               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 1,445 live domains                                   |
+| 1,000-row public sample | 1,449 live domains                                   |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 8 high-demand names under $2,500                     |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
