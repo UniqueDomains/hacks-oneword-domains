@@ -14,9 +14,9 @@ This selection includes 2,107 one-word domain hack names — where the TLD compl
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **1,454 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,454 domains · **Median ask:** $3,534.61 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 1,454 domains · **Median ask:** $3,532.28 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-11-05
+**Last updated:** 2026-11-06
 **Canonical page:** `https://unique.domains/domains/hacks`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| build.ing    | premium   | $39,000    | $39,000       | high           | medium | 8      | namecheap        |
-| numero.us    | resell    | —          | —             | high           | low    | 8      | GoDaddy.com, LLC |
-| record.ing   | premium   | $39,000    | $39,000       | high           | low    | 9      | namecheap        |
-| a.in         | available | —          | —             | high           | low    | 3      | —                |
-| invest.ing   | premium   | $30,000.20 | $31,050.20    | high           | high   | 9      | unstoppable      |
-| com.ing      | premium   | $39,000    | $39,000       | high           | low    | 6      | namecheap        |
-| wip.ing      | premium   | $650.20    | $845          | high           | low    | 6      | unstoppable      |
-| nu.de        | resell    | —          | —             | high           | low    | 4      | —                |
-| comfort.ing  | premium   | $3,000.20  | $3,900        | high           | low    | 10     | unstoppable      |
-| rabb.it      | resell    | —          | —             | high           | low    | 6      | —                |
-| de.luxe      | resell    | —          | —             | high           | low    | 6      | GoDaddy.com, LLC |
 | learn.ing    | premium   | $31,050.20 | $31,050.20    | high           | high   | 8      | spaceship        |
-| fac.ing      | premium   | $3,000.20  | —             | high           | low    | 6      | unstoppable      |
 | inju.red     | resell    | —          | —             | high           | medium | 7      | GoDaddy.com, LLC |
-| return.ing   | premium   | $10,350.20 | $10,350.20    | high           | medium | 9      | spaceship        |
 | hilario.us   | resell    | —          | —             | high           | low    | 9      | Gandi SAS        |
-| beginn.ing   | premium   | $3,105.20  | $3,105.20     | high           | low    | 9      | spaceship        |
+| return.ing   | premium   | $10,350.20 | $10,350.20    | high           | medium | 9      | spaceship        |
 | re.in        | available | —          | —             | high           | low    | 4      | —                |
-| advertis.ing | premium   | $1,300.20  | $1,345.70     | high           | medium | 11     | unstoppable      |
 | k.ing        | available | —          | —             | high           | low    | 4      | —                |
+| beginn.ing   | premium   | $3,105.20  | $3,105.20     | high           | low    | 9      | spaceship        |
+| advertis.ing | premium   | $1,300.20  | $1,345.70     | high           | medium | 11     | unstoppable      |
+| ha.at        | resell    | —          | —             | high           | low    | 4      | —                |
+| cyber.space  | premium   | $13,800    | $13,800       | high           | high   | 10     | namesilo         |
+| prob.it      | resell    | —          | —             | high           | low    | 6      | —                |
+| ri.me        | premium   | $27,600    | $16.52        | high           | low    | 4      | namesilo         |
+| schoolwi.de  | available | $5.99      | $5.99         | high           | low    | 10     | namesilo         |
+| guid.ing     | premium   | $350.20    | $362.45       | high           | low    | 7      | unstoppable      |
+| iod.in       | resell    | —          | —             | high           | low    | 5      | NameSilo, LLC    |
+| expeditio.us | available | $6.50      | $6.50         | high           | low    | 11     | cloudflare       |
+| gr.in        | available | —          | —             | high           | low    | 4      | —                |
+| jo.in        | available | —          | —             | high           | medium | 4      | —                |
+| unf.it       | resell    | —          | —             | high           | low    | 5      | —                |
+| nam.ing      | premium   | $13,000    | $13,000       | high           | low    | 6      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Domain Hack Names (.ing, .at, .me & More)*. Version 2026-11-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
