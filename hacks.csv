@@ -21,6 +21,7 @@ eafdfc7d-1233-4efa-b51e-cfa0a6f792da,comput.ing,premium,3105.2,3105.2,high,high,
 9e4d56dc-c2a6-40f7-b76a-b02cfd2110d2,bless.ing,premium,3750,3750,high,low,8,name.com,,
 39c19a03-7453-4787-b7cc-9fb1eaa140a0,sh.red,premium,1035.2,1035.2,high,low,5,spaceship,,
 9b0b6858-6a07-4a29-8aa1-b1ebe4139d7e,acade.my,resell,,,high,low,7,Webplus Digital Sdn Bhd.,01/07/2015 16:00,01/07/2027 16:00
+a119974a-6719-48ca-8f5b-0d643a577f06,inkst.one,premium,1092.18,1092.18,high,low,8,porkbun,,
 7a0b8c4a-8591-4c70-96c3-e382f18d14a2,rout.ing,premium,3105.2,3105.2,high,low,7,spaceship,,
 c3bb1e3b-8ac3-4fb8-a076-38c7ed3dcf22,columel.la,available,27.99,27.99,high,low,9,namesilo,,
 8f80de21-ef4e-4414-95ba-be9075854665,brumo.us,available,5.49,7.99,medium,low,7,namesilo,,
@@ -172,7 +173,6 @@ c5cfe372-cc6d-470a-a82a-0ec29a2c6392,ketub.im,available,4.98,12.98,high,low,7,na
 f6c8283d-82f3-4343-81ac-1b79211edf12,d.ing,premium,103500.2,103500.2,high,low,4,spaceship,,
 0c26a884-90b4-4816-86ee-60243ad2f9fa,brightso.me,available,16.56,16.56,high,low,10,cloudflare,,
 5aeab026-aa76-4d14-9a9e-024e94a7b65d,crackl.ing,premium,93.35,93.35,high,low,9,spaceship,,
-2df2613d-a854-4414-a3a1-808dfae18e2b,si.de,resell,,,high,medium,4,,,
 fabfbf27-47d3-4f20-9bfd-674aa2df9956,vend.ing,premium,3105.2,3105.2,high,low,7,spaceship,,
 da0163d9-81e4-41f1-b8ad-00c80c057d3f,d.eco,resell,,,high,low,4,101domain GRS Limited,13/06/2017 18:02,13/06/2027 18:02
 dae9fdf9-6260-4522-9226-8e37a72b03cd,antac.id,available,14.19,20.75,high,low,7,namesilo,,
@@ -243,7 +243,6 @@ e39daa0e-d16e-442c-8e44-71eb4eac18e1,intert.wine,available,9.5,,high,low,10,unst
 63fa51ef-310e-45bc-98ec-4dabec71ee9a,tipp.ing,premium,672.95,672.95,medium,low,7,spaceship,,
 3b172fa4-6a33-49da-b759-1601f16d8c9e,uncenso.red,resell,,,high,low,10,Dynadot Inc,17/04/2014 16:00,17/04/2027 16:00
 1a794f4a-a368-4754-a982-a2b96b4b78bf,pro.vision,resell,,,high,low,9,"Spaceship, Inc.",23/08/2015 16:00,23/08/2027 16:00
-d5ec05a4-f84e-447e-8c36-d39837507fcf,a.im,available,,,high,medium,3,,,
 0265e7b7-4b20-4f10-925a-592120ddbaec,wip.ing,premium,650.2,845,high,low,6,unstoppable,,
 c29a2ea9-0bb7-4526-b800-d764c50282ca,know.ing,premium,13000,13000,high,low,7,namecheap,,
 d0e00c42-d70e-4833-a02c-7b8670e34377,pucki.sh,available,34.98,76.98,high,low,7,namecheap,,
@@ -255,7 +254,7 @@ a0e442e0-75ae-4e6c-8602-a4284f617fd8,com.ing,premium,39000,39000,high,low,6,name
 03e16437-2014-45a4-b9a7-3c5290030214,meticulo.us,resell,,,high,low,10,"GoDaddy.com, LLC",30/12/2021 10:28,30/12/2026 10:28
 7cfec551-feaa-42b1-aa24-bc8a19a2ec9e,hawki.sh,available,31.05,46.58,medium,low,7,spaceship,,
 6a53031b-6927-4791-8e60-8428e536903a,coffeehous.ing,available,12.98,16.98,medium,low,13,namecheap,,
-9da2a9f3-fe51-4b8e-bde4-318cf3d0f554,androgeno.us,available,,,high,high,11,,,
+9da2a9f3-fe51-4b8e-bde4-318cf3d0f554,androgeno.us,available,6.5,6.5,high,high,11,cloudflare,,
 c1c1ad5d-b4c8-4376-ac18-6de6eef39022,rid.ing,premium,10350.2,10350.2,high,low,6,spaceship,,
 d041d3ba-1923-4680-87b7-60962eb37e61,thunderst.one,premium,1035.2,1035.2,high,low,12,spaceship,,
 91046ec6-2716-4d04-8f6d-ca232d5596ad,carous.ing,available,10.55,10.55,medium,low,9,spaceship,,
@@ -477,7 +476,6 @@ fb14d10a-7c2e-4cbe-b3b7-5bd8dee75b7d,wait.ing,premium,13000,13000,high,low,7,nam
 4bd01a4d-ecc9-4626-920c-fc7c60240fd2,oz.one,premium,10350,10350,high,low,5,namesilo,,
 9191eeba-72cb-4d95-bbee-e1ac244f2eda,meritorio.us,available,,,high,low,11,,,
 7fd828ec-88f3-433f-a941-77680c75578c,earph.one,premium,1300,1300,high,low,8,namecheap,,
-1dd6f75b-1243-46dd-87f6-10da8c9a7643,de.co,resell,,,high,low,4,Hello Internet Corp.,25/02/2010 13:34,24/02/2027 23:59
 f61f1bbc-d11b-441d-b53c-72ef51b150a8,nam.ing,premium,13000,13000,high,low,6,namecheap,,
 4204dd3a-57d7-4c22-b8ed-fd6eb0f262de,thyro.id,resell,,,high,low,7,PT Jagat Informasi Solusi (int),18/02/2026 07:27,18/02/2027 23:59
 d224027a-fa23-4531-b4ca-05112419d612,g.one,available,,,high,low,4,,,
@@ -999,3 +997,5 @@ d2594f77-a1f8-440a-8a04-b41fb0873ee7,unsuspicio.us,available,,,high,high,12,,,
 ec777646-314b-400d-a1af-a624e78a420b,outstra.in,available,5.97,5.97,high,low,9,spaceship,,
 c02326a7-772c-405c-8243-a31ea02528de,nanoflu.id,available,20.75,20.75,high,low,10,namesilo,,
 b40aa962-87fe-40ae-80bd-07570736de81,remak.ing,premium,,,high,low,8,,,
+30c497cb-fc00-4b10-9446-ffaf63e7329d,cof.actor,premium,,,high,low,8,,,
+43b49e52-e218-4c94-891d-8cb887254449,grat.ing,premium,187.5,187.5,high,low,7,name.com,,
