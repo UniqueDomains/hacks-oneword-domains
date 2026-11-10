@@ -1,6 +1,6 @@
-# Domain hacks One-Word Domains (1,465)
+# Domain hacks One-Word Domains (1,439)
 
-1,465 names in this list today, refreshed every night.
+1,439 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/hacks](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_page)
 
@@ -38,12 +38,12 @@ The first 20 rows of the file, in the file's order.
 | griev.ing     | premium   | $90.20         | $112.50       | medium         | low    | 8      |
 | bloods.hot    | available | $41.60         | $41.60        | medium         | low    | 9      |
 | uninju.red    | available | $9.48          | $28.48        | high           | low    | 9      |
-| f.law         | resell    | —              | —             | high           | low    | 4      |
 | undulat.us    | available | $6.50          | $6.50         | high           | low    | 9      |
 | undy.ing      | premium   | $90.20         | $112.50       | medium         | low    | 7      |
-| moorga.me     | available | —              | —             | high           | high   | 8      |
+| moorga.me     | available | $9.99          | $19.99        | high           | high   | 8      |
 | comput.ing    | premium   | $3,105.20      | $3,105.20     | high           | high   | 9      |
 | bless.ing     | premium   | $3,750         | $3,750        | high           | low    | 8      |
+| sh.red        | premium   | $1,035.20      | $1,035.20     | high           | low    | 5      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 1,465 names in the live list today.
+- The files hold 1,000 rows of the 1,439 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
