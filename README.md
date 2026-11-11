@@ -106,4 +106,6 @@ Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/
 
 [Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
 
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
+
 Questions and corrections: `kai@unique.domains`
