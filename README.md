@@ -1,6 +1,8 @@
-# Domain hacks One-Word Domains (1,440)
+# Domain hacks One-Word Domains (1,437)
 
-1,440 names in this list today, refreshed every night.
+1,000 real domain hacks one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
+
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,437 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/hacks](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_page)
 
@@ -62,21 +64,21 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 1,440 names in the live list today.
+- The files hold 1,000 rows of the 1,437 names in the live list today.
 - Every row is a one-word domain name.
-- Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
+- Status and prices are the latest on record for each name, not a reading taken on the day of the rebuild.
 
 More in [METHODOLOGY.md](./METHODOLOGY.md).
 
 ## Update policy
 
 - The files are rebuilt every night from the same export.
-- The snapshot is the day of the rebuild; each row's status is the last one stored, not a reading of that day.
+- The snapshot is the day of the rebuild; each row's status is the latest on record for the name, not a reading of that day.
 - The files hold the public extract, not the whole live list.
 
 ## How to cite
 
-> Unique Domains, Domain hacks One-Word Domains, https://unique.domains/domains/hacks, CC BY 4.0
+> Unique.domains, Domain hacks One-Word Domains, https://unique.domains/domains/hacks, CC BY 4.0
 
 Citation metadata: [CITATION.cff](./CITATION.cff). A DOI follows once Zenodo mints one.
 
@@ -100,11 +102,11 @@ Lists:
 - [Brandable](https://github.com/UniqueDomains/brandable-oneword-domains)
 - [Short](https://github.com/UniqueDomains/short-oneword-domains)
 
-Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/tld?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=related_hub).
+Every ending Unique.domains tracks: [unique.domains/tld](https://unique.domains/tld?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=related_hub).
 
-## About Unique Domains
+## About Unique.domains
 
-[Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
+[Unique.domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
 
 From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
