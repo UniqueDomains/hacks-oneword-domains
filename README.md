@@ -1,8 +1,8 @@
-# Domain hacks One-Word Domains (1,440)
+# Domain hacks One-Word Domains (1,441)
 
 1,000 real domain hacks one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,440 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,441 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/hacks](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_page)
 
@@ -43,9 +43,9 @@ The first 20 rows of the file, in the file's order.
 | undulat.us    | available | $6.50          | $6.50         | high           | low    | 9      |
 | undy.ing      | premium   | $90.20         | $112.50       | medium         | low    | 7      |
 | moorga.me     | available | $9.99          | $19.99        | high           | high   | 8      |
+| cherryst.one  | premium   | $1,107         | $1,107        | high           | low    | 11     |
 | comput.ing    | premium   | $3,105.20      | $3,105.20     | high           | high   | 9      |
 | bless.ing     | premium   | $3,750         | $3,750        | high           | low    | 8      |
-| sh.red        | premium   | $1,035.20      | $1,035.20     | high           | low    | 5      |
 
 ## What is in the data
 
@@ -64,7 +64,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 1,440 names in the live list today.
+- The files hold 1,000 rows of the 1,441 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
