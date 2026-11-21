@@ -1,6 +1,8 @@
 # Domain hacks One-Word Domains (1,452)
 
-1,000 real domain hacks one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
+**Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_home).
+
+1,000 real domain hacks one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
 Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,452 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
@@ -27,6 +29,7 @@ The first 20 rows of the file, in the file's order.
 | domain        | status    | purchase_price | renewal_price | attractiveness | demand | length |
 | ------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ |
 | selfportra.it | available | $6.60          | $5.45         | high           | low    | 13     |
+| proui.de      | available | $5.99          | $5.99         | high           | low    | 7      |
 | sibl.ing      | premium   | $672.95        | $672.95       | high           | low    | 7      |
 | blacki.sh     | available | $39.99         | $47.99        | high           | low    | 8      |
 | blast.ing     | premium   | $3,000.20      | $3,900        | high           | low    | 8      |
@@ -45,7 +48,6 @@ The first 20 rows of the file, in the file's order.
 | moorga.me     | available | $9.99          | $19.99        | high           | high   | 8      |
 | cherryst.one  | premium   | $1,107         | $1,107        | high           | low    | 11     |
 | comput.ing    | premium   | $3,105.20      | $3,105.20     | high           | high   | 9      |
-| bless.ing     | premium   | $3,750         | $3,750        | high           | low    | 8      |
 
 ## What is in the data
 
