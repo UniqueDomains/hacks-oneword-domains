@@ -1,10 +1,10 @@
-# Domain hacks One-Word Domains (1,452)
+# Domain hacks One-Word Domains (1,468)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_home).
 
 1,000 real domain hacks one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,452 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,468 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/hacks](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_page)
 
@@ -39,6 +39,7 @@ The first 20 rows of the file, in the file's order.
 | plann.ing     | premium   | $3,105.20      | $3,105.20     | high           | medium | 8      |
 | pulsebe.at    | available | $10.99         | $10.99        | high           | low    | 9      |
 | chas.ing      | premium   | $1,300.20      | $1,690        | high           | low    | 7      |
+| starr.ing     | premium   | $3,105.20      | $3,105.20     | high           | low    | 8      |
 | dog.fish      | resell    | —              | —             | high           | low    | 7      |
 | griev.ing     | premium   | $90.20         | $112.50       | medium         | low    | 8      |
 | bloods.hot    | available | $41.60         | $41.60        | medium         | low    | 9      |
@@ -47,7 +48,6 @@ The first 20 rows of the file, in the file's order.
 | undy.ing      | premium   | $90.20         | $112.50       | medium         | low    | 7      |
 | moorga.me     | available | $9.99          | $19.99        | high           | high   | 8      |
 | cherryst.one  | premium   | $1,107         | $1,107        | high           | low    | 11     |
-| comput.ing    | premium   | $3,105.20      | $3,105.20     | high           | high   | 9      |
 
 ## What is in the data
 
@@ -66,7 +66,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 1,452 names in the live list today.
+- The files hold 1,000 rows of the 1,468 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
