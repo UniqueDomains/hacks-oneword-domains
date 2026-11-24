@@ -1,10 +1,10 @@
-# Domain hacks One-Word Domains (1,466)
+# Domain hacks One-Word Domains (1,461)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_home).
 
 1,000 real domain hacks one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,466 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/hacks) holds 1,461 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/hacks](https://unique.domains/domains/hacks?utm_source=github&utm_medium=referral&utm_campaign=repo_hacks_oneword_domains&utm_content=top_page)
 
@@ -21,6 +21,8 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/hacks-oneword-domains/main/hacks.csv")
 print(df.head())
 ```
+
+Also on Kaggle, with every list: [One-Word Domains: Brandable, Short and More](https://www.kaggle.com/datasets/uniquedomains/one-word-domain-lists).
 
 ## Sample rows
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 1,466 names in the live list today.
+- The files hold 1,000 rows of the 1,461 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
